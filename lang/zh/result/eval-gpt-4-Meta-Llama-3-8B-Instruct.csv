@@ -1,0 +1,1040 @@
+id,context,question,references,predictions,model_gpt4,model_q1,model_q2,model_q3,model_q4
+56beb4343aeaaa14008c925b,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,黑豹队的防守丢了多少分？,308,"According to the context, 黑豹队的防守只丢了 308 分。","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the 黑豹队的防守丢了 308 分.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56beb4343aeaaa14008c925c,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,贾里德在职业生涯中有多少次擒杀？,136 次,根据文本，贾里德·艾伦（Jared Allen）在职业生涯中有 136 次擒杀。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Jared Allen has 136 sacks in his career, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56beb4343aeaaa14008c925d,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,卢克·坎克利贡献了多少次擒抱？,118,"According to the text, 卢克·坎克利 (Luke Kuechly) led the team in tackles with 118, and also forced two fumbles and intercepted four passes.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Luke Kuechly made 118 tackles.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional relevant information about Luke Kuechly's performance, including forcing two fumbles and intercepting four passes.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question and the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56beb4343aeaaa14008c925e,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,约什·诺曼拦截了多少球？,四次,"According to the text, 约什·诺曼 (Josh Norman) completed 4 interceptions in the current season.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Josh Norman completed 4 interceptions, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information that Josh Norman completed these interceptions in the current season, which is relevant to the question and enhances the understanding of the topic.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,1,0,0
+56beb4343aeaaa14008c925f,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,本赛季谁为球队贡献的擒杀最多？,卡万·肖特,根据文本，职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。因此，卡万·肖特为球队贡献的擒杀最多。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""卡万·肖特"" as the player who contributed the most sacks for the team in the season, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about ""卡万·肖特"" leading the team with 11 points, and also having three forced fumbles and two recoveries, which is relevant to the question about who contributed the most sacks.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56d6f3500d65d21400198290,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,2015年黑豹队的防守有多少次拦截记录？,24 次,根据文本，黑豹队的防守有 24 次拦截记录。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d6f3500d65d21400198291,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,谁带领黑豹队擒杀？,卡万·肖特,根据文本，黑豹队的防守端锋贾里德·艾伦是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The reference answer is ""卡万·肖特"" but the prediction answer mentions ""贾里德·艾伦"" instead.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about ""贾里德·艾伦"" and his accomplishments, which is relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer can be found in the context.",0,1,0,0
+56d6f3500d65d21400198292,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,有多少名黑豹队防守球员入选了职业碗？,四次,"根据文本，黑豹队有四名防守球员入选了职业碗：
+
+1. 万·肖特
+2. 贾里德·艾伦
+3. 托马斯·戴维斯
+4. 卢克·坎克利","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d6f3500d65d21400198293,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,托马斯·戴维斯有多少次迫使掉球？,四次,"According to the text, 托马斯·戴维斯 (Thomas Davis) has 4 times forced fumble.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Thomas Davis has forced 4 fumbles, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56d6f3500d65d21400198294,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,本赛季哪个球员拦截次数最多？,科特·科尔曼,根据提供的信息，职业碗防守截锋卡万·肖特以 11 分领先于全队，拦截次数最多。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer incorrectly identifies ""卡万·肖特"" as the player with the most interceptions, while the reference answer correctly identifies ""科特·科尔曼"" as the player with the most interceptions.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional relevant information from the context. It incorrectly identifies the player with the most interceptions.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information about ""卡万·肖特"" leading the team with 11 points, which is not related to the question about interceptions.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer can be found in the context, but it is incorrectly applied to the question.",0,0,1,0
+56d9992fdc89441400fdb59c,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,2015 赛季黑豹队的防守被拦截了多少次？,24 次,根据文章，黑豹队的防守只丢了 308 分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)。因此，黑豹队的防守被拦截了 24 次。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the defense of the Panthers was intercepted 24 times, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the Panthers' defense, such as their ranking in the league and the total points they lost, which is relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the context and the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56d9992fdc89441400fdb59e,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,作为卡罗莱纳黑豹队的先发球员，谁在九场比赛中拿下了五次擒杀？,科尼·伊利,"According to the text, it is 科尼·伊利 (Kony Ealy) who, as a starting defensive end for the Carolina Panthers, recorded 5 sacks in 9 games.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d9992fdc89441400fdb59f,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,谁是黑豹队 2015 年的截锋领袖？,卢克·坎克利,根据提供的信息，黑豹队的截锋领袖是卡万·肖特，他以 11 分领先于全队。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The reference answer is ""卢克·坎克利"" but the prediction answer is ""卡万·肖特"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant information about the team's interception leader, ""卡万·肖特"".
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer is found in the context.",0,1,0,0
+56d9992fdc89441400fdb5a0,黑豹队的防守只丢了 308分，在联赛中排名第六，同时也以 24 次拦截领先国家橄榄球联盟 (NFL)，并且四次入选职业碗。职业碗防守截锋卡万·肖特以 11 分领先于全队，同时还有三次迫使掉球和两次重新接球。他的队友马里奥·爱迪生贡献了 6½ 次擒杀。黑豹队的防线上有经验丰富的防守端锋贾里德·艾伦，他是五次职业碗选手，曾以 136 次擒杀成为 NFL 职业生涯中的活跃领袖。另外还有在 9 场首发中就拿下 5 次擒杀的防守端锋科尼·伊利。在他们身后，黑豹队的三名首发线卫中有两人入选了职业碗：托马斯·戴维斯和卢克·坎克利。戴维斯完成了 5½ 次擒杀、四次迫使掉球和四次拦截，而坎克利带领球队在擒抱 (118) 中迫使两次掉球并拦截了他自己的四次传球。卡罗莱纳的第二防线有职业碗安全卫科特·科尔曼和职业碗角卫约什·诺曼，科尔曼带领球队完成了职业生涯中高达七次拦截并同时贡献了 88 次擒抱，而诺曼在本赛季成长为一名封锁角卫并完成了四次拦截，其中两次被判触地得分。,2015 年约什·诺曼有多少次拦截被判为触地得分？,两次,"According to the text, Josh Norman had 2 times of interceptions that were judged as touchdown in 2015.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56beb7953aeaaa14008c92ab,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,谁在分区轮输给了野马队？,匹兹堡钢人队,"According to the context, the team that lost to the 野马队 (Broncos) in the divisional round is the 匹兹堡钢人队 (Pittsburgh Steelers).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the team that lost to the 野马队 (Broncos) in the divisional round as the 匹兹堡钢人队 (Pittsburgh Steelers).
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56beb7953aeaaa14008c92ac,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,野马队在对阵匹兹堡队的最后三分钟拿下多少分？,11,"According to the context, 野马队 (Broncos) defeated the 匹兹堡钢人队 (Pittsburgh Steelers) with a score of 23-16, and they scored 11 points in the last three minutes of the game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the Broncos scored 11 points in the last three minutes of the game against the Pittsburgh Steelers.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional relevant information from the context, such as the final score of the game and the teams involved.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the question and helps to provide a more complete understanding of the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56beb7953aeaaa14008c92ad,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,谁赢得了第 49 届超级碗？,新英格兰爱国者队,"According to the context, the New England Patriots (新英格兰爱国者队) were the champions of the 49th Super Bowl, but they lost to the 野马队 (Broncos) in the AFC Championship game. Therefore, the 野马队 did not win the 49th Super Bowl.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the New England Patriots as the champions of the 49th Super Bowl.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information about the New England Patriots losing to the Broncos in the AFC Championship game.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56beb7953aeaaa14008c92ae,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,AFC 锦标赛的最终比分是多少？,20–18,"According to the context, the AFC Championship game ended with a score of 20-18, with the 野马队 (Broncos) winning.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56beb7953aeaaa14008c92af,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,当野马队通过拦截锁定 AFC 锦标赛胜局时，比赛还剩多少时间？,17 秒,"According to the context, the Broncos defeated the Patriots 20-18 in the AFC Championship game, and they intercepted a two-point conversion attempt by the Patriots with 17 seconds remaining in the game. Therefore, when the Broncos secured the win with the interception, there were 17 seconds left in the game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that there were 17 seconds left in the game when the Broncos secured the win with the interception.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional details about the game, including the final score and the fact that the Broncos intercepted a two-point conversion attempt by the Patriots, which are relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56bf36b93aeaaa14008c9561,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,在野马队和钢人队中，哪支球队是分区冠军？,野马队,"According to the context, the Wild Card team (野马队) defeated the Pittsburgh Steelers (匹兹堡钢人队) with a score of 23-16, which means the Wild Card team is the division champion.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56bf36b93aeaaa14008c9562,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,野马队和钢人队比赛的最终比分是多少？,23–16,"According to the context, the final score of the game between the 野马队 (Broncos) and the 匹兹堡钢人队 (Steelers) is 23-16, with the Broncos winning.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states the final score of the game as 23-16.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information about which team won the game.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,1,0,0
+56bf36b93aeaaa14008c9563,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,谁赢得了第 49 届超级碗？,新英格兰爱国者队,"According to the context, the New England Patriots (新英格兰爱国者队) were the champions of the 49th Super Bowl, but they lost to the 野马队 (Broncos) in the AFC Championship game. Therefore, the 野马队 did not win the 49th Super Bowl.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the New England Patriots as the winners of the 49th Super Bowl.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information about the New England Patriots losing to the Broncos in the AFC Championship game.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56bf36b93aeaaa14008c9564,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,当野马队通过拦截传球锁定胜局时，比赛还剩多少秒？,17,"According to the context, the Broncos defeated the Patriots 20-18 in the AFC Championship game, and they intercepted a two-point conversion pass from the Patriots with 17 seconds remaining in the game. Therefore, when the Broncos secured the win with the interception, there were 17 seconds left in the game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that there were 17 seconds left in the game when the Broncos secured the win with the interception.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the context of the game, including the Broncos' victory over the Patriots in the AFC Championship game and the interception of a two-point conversion pass from the Patriots.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question and provides a more detailed understanding of the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56bf36b93aeaaa14008c9565,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,在野马队的季后赛中，谁没有投球？,曼宁,"According to the context, it is 曼宁 (Manning) who did not throw any balls in the two playoff games.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""曼宁"" (Manning) as the person who did not throw any balls in the two playoff games.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the context of the question, specifying that Manning did not throw any balls in the two playoff games.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context. All information provided pertains directly to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. All information provided is directly sourced from the passage.",1,1,0,0
+56d7018a0d65d214001982c2,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,野马队在分区赛中打败了谁？,匹兹堡钢人队,"According to the context, the Broncos (野马队) defeated the Pittsburgh Steelers (匹兹堡钢人队) in the divisional round with a score of 23-16.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies that the Broncos (野马队) defeated the Pittsburgh Steelers (匹兹堡钢人队).
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the relevant additional information about the score of the match, which is 23-16.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information. All the information provided pertains to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56d7018a0d65d214001982c3,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,野马队在对阵匹兹堡队的最后三分钟拿下多少分？,11,"According to the context, 野马队 (Broncos) defeated the 匹兹堡钢人队 (Pittsburgh Steelers) with a score of 23-16, and they scored 11 points in the last three minutes of the game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the Broncos scored 11 points in the last three minutes of the game against the Pittsburgh Steelers.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional relevant information from the context, such as the final score of the game and the teams involved.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56d7018a0d65d214001982c5,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,野马队在 AFC 锦标赛中打败了谁？,新英格兰爱国者队,"According to the context, the Broncos (野马队) defeated the New England Patriots (新英格兰爱国者队) in the AFC Championship game with a score of 20-18.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies that the Broncos (野马队) defeated the New England Patriots (新英格兰爱国者队) in the AFC Championship game.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the relevant additional information about the score of the game (20-18), which is directly related to the question and enhances understanding.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context. All the information provided is directly related to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. All the information provided is directly taken from the passage.",1,1,0,0
+56d99f99dc89441400fdb628,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,野马队在 2015 年分区决赛中打败了谁？,匹兹堡钢人队,"According to the context, the Broncos (野马队) defeated the Pittsburgh Steelers (匹兹堡钢人队) in the divisional round with a score of 23-16.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies that the Broncos (野马队) defeated the Pittsburgh Steelers (匹兹堡钢人队).
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the additional relevant information about the score of the game (23-16), which is directly related to the question.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information. All the information provided pertains directly to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56d99f99dc89441400fdb629,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,野马队打败了谁才成为 AFC 冠军？,新英格兰爱国者队,"According to the context, the Broncos (野马队) defeated the New England Patriots (新英格兰爱国者队) in the AFC Championship game with a score of 20-18. Therefore, the Broncos became the AFC champions by beating the Patriots.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the New England Patriots as the team the Broncos defeated to become AFC champions.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the relevant additional information about the score of the game (20-18), which enhances the understanding of the Broncos' victory.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56d99f99dc89441400fdb62c,野马队在分区轮以 23–16 击败了匹兹堡钢人队，在比赛的最后三分钟拿下 11 分。然后他们在美式足球联合会 (AFC) 锦标赛上以 20–18 击败了第 49 届超级碗卫冕冠军新英格兰爱国者队，在比赛还剩 17 秒 时拦截了新英格兰队的两分转换传球。尽管曼宁在本赛季的拦截上有问题，但他在两场季后赛中未投任何球。,当爱国者队两分转换失败时，比赛还剩多少秒？,17,"According to the text, the game was still 17 seconds away from ending when the Patriots' two-point conversion attempt was intercepted.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that there were 17 seconds left in the game when the Patriots' two-point conversion attempt was intercepted.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the context of the game, specifically mentioning the interception of the Patriots' two-point conversion attempt, which is relevant to the question.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56beb86b3aeaaa14008c92bd,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,培顿·曼宁参加第 50 届超级碗时多大？,39,"According to the context, 培顿·曼宁 (Peyton Manning) became the first quarterback to lead two different teams to multiple Super Bowls. He also became the oldest quarterback to participate in a Super Bowl at the age of 39. The previous record was held by John Elway, who led the Denver Broncos to win Super Bowl XXXIII at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer does not directly provide the age of Peyton Manning when he participated in the 50th Super Bowl, which is 39.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information from the context, such as Peyton Manning being the first quarterback to lead two different teams to multiple Super Bowls and the previous record held by John Elway.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information about John Elway's record and his current position, which is not related to the question about Peyton Manning's age during the 50th Super Bowl.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",0,1,1,0
+56beb86b3aeaaa14008c92be,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,谁曾是超级碗比赛中年龄最大的四分卫记录保持者？,约翰·埃尔维,"According to the context, 约翰·埃尔维 (John Elway) was the record holder for the oldest quarterback to participate in the Super Bowl, achieving this feat at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies 约翰·埃尔维 (John Elway) as the record holder for the oldest quarterback to participate in the Super Bowl.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information from the context, such as the age at which John Elway achieved this record.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information in the prediction answer is found in the context.",1,1,0,0
+56beb86b3aeaaa14008c92bf,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,约翰·埃尔维参加第 33 届超级碗时多大？,38,"According to the context, 约翰·埃尔维 (John Elway) participated in the 33rd Super Bowl at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that John Elway participated in the 33rd Super Bowl at the age of 38.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information by translating John Elway's name into English, which is not necessary to answer the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information in the prediction answer can be found in the context.",1,0,1,0
+56beb86b3aeaaa14008c92c0,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,约翰·埃尔维目前在野马队中担任什么角色？,橄榄球运营执行副总裁兼总经理,"According to the context,约翰·埃尔维 (John Elway) is currently serving as the Executive Vice President of Football Operations and General Manager of the Denver Broncos.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that 约翰·埃尔维 is the Executive Vice President of Football Operations and General Manager of the Denver Broncos.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the English translation of 约翰·埃尔维's name (John Elway) and the team he is associated with (Denver Broncos), which is relevant to the question.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,1,0,0
+56beb86b3aeaaa14008c92c1,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,约翰·埃尔维在第 33 届超级碗中为谁效力？,野马队,"According to the context, 约翰·埃尔维 (John Elway) was playing for the Denver Broncos when he led the team to win the 33rd Super Bowl at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies that 约翰·埃尔维 (John Elway) was playing for the Denver Broncos (野马队) during the 33rd Super Bowl.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information from the context, such as the fact that 约翰·埃尔维 (John Elway) led the team to win the 33rd Super Bowl at the age of 38.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56bf3fd53aeaaa14008c9591,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,第 33 届超级碗冠军是哪支球队？,野马队,"According to the context, the 33rd Super Bowl champion is the Denver Broncos, led by John Elway.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the Denver Broncos (野马队) as the champions of the 33rd Super Bowl.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information from the context, such as the fact that the team was led by John Elway.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56bf3fd53aeaaa14008c9592,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,野马队的总经理是谁？,约翰·埃尔维,"According to the context, the general manager of the Denver Broncos is John Elway.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies John Elway as the general manager of the Denver Broncos, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56bf3fd53aeaaa14008c9593,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,埃尔维赢得第 33 届超级碗时多大？,38,"According to the context, 培顿·曼宁 (Peyton Manning) became the first quarterback to lead two different teams to multiple Super Bowls, and he also became the oldest quarterback to play in a Super Bowl at the age of 39. The previous record was held by John Elway, who led the Denver Broncos to win the 33rd Super Bowl at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer does not directly provide the age of John Elway when he won the 33rd Super Bowl, which is the specific information asked in the question.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about Peyton Manning and John Elway's achievements, which are relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes information about Peyton Manning's achievements, which is irrelevant to the specific question asked about John Elway's age when he won the 33rd Super Bowl.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",0,1,1,0
+56bf3fd53aeaaa14008c9594,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,谁是超级碗比赛中年龄最大的四分卫记录保持者？,培顿·曼宁,"According to the context, 培顿·曼宁 (Peyton Manning) is the record holder for the oldest quarterback to participate in the Super Bowl, at the age of 39. However, the previous record was held by 约翰·埃尔维 (John Elway), who led the Broncos to win the 33rd Super Bowl at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies 培顿·曼宁 (Peyton Manning) as the record holder for the oldest quarterback to participate in the Super Bowl.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional relevant information from the context, including the age of Peyton Manning when he participated in the Super Bowl and the previous record holder.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the question and provides a more comprehensive understanding of the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56bf3fd53aeaaa14008c9595,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,曼宁在效力期间曾带领几支球队进入超级碗？,两支,"According to the context, 培顿·曼宁 (Peyton Manning) became the first quarterback to lead multiple teams to the Super Bowl. However, the text does not specify the exact number of teams he led to the Super Bowl.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer does not match the reference answer. The reference answer is ""两支"" (two teams), while the prediction answer does not provide a specific number.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant information from the context about Peyton Manning being the first quarterback to lead multiple teams to the Super Bowl.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context, specifically the statement ""However, the text does not specify the exact number of teams he led to the Super Bowl."" This is incorrect as the context does specify that Manning led two teams to the Super Bowl.",0,1,0,1
+56d704430d65d214001982de,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,培顿·曼宁带领了几支不同的球队进入超级碗？,两支,"According to the context, 培顿·曼宁 (Peyton Manning) became the first quarterback to lead multiple teams to the Super Bowl. However, the text does not specify the exact number of teams he led to the Super Bowl.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer does not match the reference answer. The reference answer is ""两支"" (two teams), while the prediction answer does not provide a specific number.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer does provide relevant information from the context about Peyton Manning being the first quarterback to lead multiple teams to the Super Bowl.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",0,1,0,0
+56d704430d65d214001982e0,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,谁是超级碗比赛中年龄最大的四分卫？,培顿·曼宁,"According to the context, 培顿·曼宁 (Peyton Manning) is the oldest quarterback to participate in the Super Bowl at the age of 39.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies 培顿·曼宁 (Peyton Manning) as the oldest quarterback to participate in the Super Bowl, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the relevant additional information that Peyton Manning participated in the Super Bowl at the age of 39.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is found in the context.",1,1,0,0
+56d704430d65d214001982e1,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,在曼宁之前，谁是超级碗比赛中年龄最大的四分卫？,约翰·埃尔维,"According to the context, before Peyton Manning, the record for the oldest quarterback to play in the Super Bowl was held by John Elway, who led the Denver Broncos to win Super Bowl XXXIII at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d704430d65d214001982e2,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,埃尔维在 38 岁时赢得了哪一届超级碗？,第 33 届超级碗,"According to the context, John Elway led the Denver Broncos to win the 33rd Super Bowl at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that John Elway won the 33rd Super Bowl at the age of 38.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information that John Elway led the Denver Broncos to win the Super Bowl, which is relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56d9a0eadc89441400fdb63e,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,谁是首位带领两支球队多次进入超级碗的四分卫？,培顿·曼宁,"According to the context, 培顿·曼宁 (Peyton Manning) is the first quarterback to lead two different teams to multiple Super Bowls.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies 培顿·曼宁 (Peyton Manning) as the first quarterback to lead two different teams to multiple Super Bowls, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56d9a0eadc89441400fdb63f,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,曼宁参加第 50 届超级碗时多大？,39,"According to the context, 培顿·曼宁 (Peyton Manning) became the first quarterback to lead two different teams to multiple Super Bowls. He also became the oldest quarterback to participate in a Super Bowl at the age of 39. The previous record was held by John Elway, who led the Broncos to win Super Bowl XXXIII at the age of 38.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is not directly corresponding to the reference answer. The reference answer is ""39"", but the prediction answer is a long explanation, not a direct answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information from the context about Peyton Manning's achievements and the previous record holder.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The question asks for Manning's age during the 50th Super Bowl, but the prediction answer includes irrelevant information about Manning's achievements and the previous record holder.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",0,1,1,0
+56d9a0eadc89441400fdb640,培顿·曼宁成为史上首位带领两支不同球队多次进入超级碗的四分卫。他也以 39 岁高龄参加超级碗而成为史上年龄最大的四分卫。过去的记录是由约翰·埃尔维保持的，他在 38岁时带领野马队赢得第 33 届超级碗，目前担任丹佛的橄榄球运营执行副总裁兼总经理。,在第 33 届超级碗中，38 岁的四分卫叫什么名字？,约翰·埃尔维,"According to the context, the 38-year-old quarterback who led the Denver Broncos to win the 33rd Super Bowl is named John Elway.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the 38-year-old quarterback as John Elway, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional relevant information from the context that the quarterback led the Denver Broncos to win the 33rd Super Bowl.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56bec6ac3aeaaa14008c93fd,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,女神卡卡得过几次格莱美奖？,六,"According to the context, Lady Gaga has won the Grammy Awards six times.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56bec6ac3aeaaa14008c93fe,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,女神卡卡唱了什么歌？,国歌,"According to the context, Lady Gaga sang the national anthem.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Lady Gaga sang the national anthem, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56bec6ac3aeaaa14008c93ff,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,玛丽·麦特琳得过什么奖项？,奥斯卡奖,"According to the context, 玛丽·麦特琳 (Mary Martin) is an Oscar winner, which means she has won an Academy Award.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that 玛丽·麦特琳 (Mary Martin) has won an Oscar, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes the information that the Oscar is also known as the Academy Award, which is not mentioned in the context.",1,0,0,1
+56bec6ac3aeaaa14008c9400,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,玛丽·麦特琳翻译了什么？,国歌,"According to the context, 玛丽·麦特琳 (Mary Martin) translated the national anthem into American Sign Language (ASL).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Mary Martin translated the national anthem.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the language into which the national anthem was translated (American Sign Language), which is relevant and enhances understanding.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56bec6ac3aeaaa14008c9401,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,玛丽·麦特琳把国歌翻译成什么语言？,美国手语,"According to the context, Mary Martin (not Mary MacTearlin) is an ASL (American Sign Language) interpreter, which means she translated the national anthem into American Sign Language, not a spoken language.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The predicted answer correctly states that Mary Martin translated the national anthem into American Sign Language.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The predicted answer provides additional information about Mary Martin's role as an ASL interpreter, which is relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The predicted answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The predicted answer includes information not found in the context, such as the incorrect name ""Mary MacTearlin"".",1,1,0,1
+56d20650e7d4791d00902614,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,谁演唱了国歌？,女神卡卡,"According to the context, 女神卡卡 (Lady Gaga) sang the national anthem.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree",1,0,0,1
+56d20650e7d4791d00902615,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,哪位女演员担任了比赛的美国手语翻译？,玛丽·麦特琳,"According to the context, it was actress Marlee Matlin who served as the American Sign Language (ASL) translator for the event.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d7253b0d65d214001983d4,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,谁在第 50 届超级碗上演唱了国歌？,女神卡卡,"According to the context, Lady Gaga, a six-time Grammy Award winner and Oscar nominee, sang the national anthem at the Super Bowl, and Mary J. Blige, an Oscar winner, served as the American Sign Language (ASL) translator.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies Lady Gaga as the singer of the national anthem.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes additional information about Lady Gaga's achievements and the role of Mary J. Blige, which is relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,1,0,0
+56d7253b0d65d214001983d5,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,哪位演员在第 50 届超级碗上用手语演绎了国歌？,玛丽·麦特琳,"According to the context, it was Lady Gaga, a six-time Grammy Award winner and Oscar nominee, who sang the national anthem at the Super Bowl, and Mary J. Blige, an Oscar winner, who served as the American Sign Language (ASL) translator.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer incorrectly states that Mary J. Blige was the ASL translator, when the reference answer and the passage clearly state it was Mary Matlin.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer includes incorrect information about who served as the ASL translator.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information about Lady Gaga singing the national anthem, which is not relevant to the question about who performed the national anthem in sign language.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer incorrectly states that Mary J. Blige was the ASL translator, a detail not found in the passage.",0,0,1,1
+56d9c455dc89441400fdb7c4,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,谁在第 50 届超级上演唱了国歌？,女神卡卡,"According to the context, Lady Gaga, a six-time Grammy Award winner and Oscar nominee, sang the national anthem at the 50th Super Bowl.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The predicted answer correctly identifies Lady Gaga as the singer of the national anthem.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The predicted answer includes additional information about Lady Gaga's accolades, which are mentioned in the passage.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the answer is relevant to Lady Gaga, the subject of the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The answer does not include any information that is not found in the context.",1,1,0,0
+56d9c455dc89441400fdb7c5,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,文章说女神卡卡得过几次格莱美奖？,六,"According to the context, it is mentioned that 女神卡卡 (Lady Gaga) is a ""六次格莱美奖得主"" (six-time Grammy Award winner).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d9c455dc89441400fdb7c6,六次格莱美奖得主及奥斯卡奖提名者女神卡卡献唱了国歌，而奥斯卡奖得主玛丽·麦特琳担任了美国手语 (ASL) 翻译。,谁在第 50 届超级碗上用手语演绎了国歌？,玛丽·麦特琳,"According to the context, it was Lady Gaga, a six-time Grammy Award winner and Oscar nominee, who sang the national anthem at the Super Bowl, and Mary Hartley, an Oscar winner, who interpreted it in American Sign Language (ASL).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect because it mentions Lady Gaga sang the national anthem, but the question asks who interpreted the national anthem in sign language, which is Mary Hartley.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information from the context about Lady Gaga singing the national anthem and Mary Hartley interpreting it in American Sign Language (ASL).
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information about Lady Gaga, which is not related to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",0,1,1,0
+56beca913aeaaa14008c946d,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,当比赛还剩 4 分 51 秒时，卡罗莱纳在几码线开球？,24,"According to the context, when the game was still 4 minutes and 51 seconds left, Carolina was on their own 24-yard line.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56beca913aeaaa14008c946e,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,谁在第三档和第九档进攻中掉球了？,牛顿,"According to the context, it was 米勒 (Miller) who knocked the ball away from 牛顿 (Newton) in the third and ninth attacks.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The passage states that it was Newton who lost the ball, not Miller who knocked it away.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer does provide additional information from the context about how Newton lost the ball - it was knocked away by Miller.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the question as it explains how Newton lost the ball.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",0,1,0,0
+56beca913aeaaa14008c946f,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,哪位黑豹队后卫在第三档进攻中被判拉人？,约什·诺曼,"According to the context, it was Josh Norman, the cornerback, who committed a holding penalty, giving the Broncos a new opportunity to attack.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""Josh Norman"" as the player who committed the holding penalty, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about Josh Norman's role as a cornerback and the consequence of his penalty, which is relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the context and the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56beca913aeaaa14008c9470,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,哪位球员把球从 2 码线打出？,安德森,"According to the context, 安德森 (Anderson) kicked the ball from the 2-yard line and scored a touchdown.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies Anderson as the player who kicked the ball from the 2-yard line.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information from the context, mentioning that Anderson scored a touchdown.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the question and does not include any irrelevant details.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,1,0,0
+56beca913aeaaa14008c9471,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,谁是两分转换成功的接球手？,本尼·福勒,"According to the context, the player who made the two-point conversion is 本尼·福勒 (Benny Fowler), who received the ball from 曼宁 (Manning).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies Benny Fowler as the player who made the two-point conversion.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about who passed the ball to Benny Fowler for the two-point conversion, which is relevant to the question.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,1,0,0
+56d726b60d65d214001983ea,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,谁在第三档和第九档进攻中把球从牛顿手中拍掉？,米勒,根据文本，米勒把球从牛顿手中拍掉。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d726b60d65d214001983eb,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,谁夺回了漏失的球？,沃德,"According to the context, it was沃德 (Ward) who recovered the ball after it was deflected back and forth and eventually got it back at the 4-yard line of the opposing team.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""沃德"" (Ward) as the one who recovered the ball, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional details about how Ward recovered the ball, which are relevant to the context and enhance the understanding of the situation.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the question and does not stray from the topic.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is found in the context.",1,1,0,0
+56d726b60d65d214001983ec,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,哪位球员因为没有冲进人堆里重新接球而受到批评？,牛顿,根据文本，牛顿（Newton）因为缺乏攻击性的行为，没有冲进人堆里重新接球而受到批评。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d726b60d65d214001983ed,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,哪位黑豹队球员因犯规而给了野马队新一轮的进攻机会？,约什·诺曼,"According to the context, it was 角卫约什·诺曼 (Josh Norman) who committed a holding penalty, giving the Broncos a new attacking opportunity.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""约什·诺曼"" (Josh Norman) as the player who committed the penalty, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the nature of the penalty (""a holding penalty"") and the consequence of the penalty (""giving the Broncos a new attacking opportunity""), which is relevant and enhances the understanding of the topic.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is found in the context.",1,1,0,0
+56d726b60d65d214001983ee,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,当丹佛把比分提高到 24-10 时，比赛还剩多少时间？,3 分 08 秒,"According to the text, when Denver increased their lead to 24-10, the game was still 3 minutes and 8 seconds away from ending.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9cb47dc89441400fdb832,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,在第四节中，当卡罗莱纳在 24 码线上拿到球时，比赛还剩多少时间？,4 分 51 秒,"According to the context, when Carolina got the ball on their 24-yard line, there were 4 minutes and 51 seconds left in the game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d9cb47dc89441400fdb833,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,在第四节尾声，把球从牛顿手中抢走的球员姓什么？,米勒,"According to the context, the player who took the ball away from Newton's hands is Ward.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The player who took the ball away from Newton's hands is ""米勒"" (Miller), not Ward.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any relevant additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information, stating that the player who took the ball away from Newton's hands is Ward, which is not correct according to the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context. The context does not state that Ward took the ball away from Newton's hands.",0,0,1,1
+56d9cb47dc89441400fdb834,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,在第四节中，最终把牛顿丢的球重新接回的球员姓什么？,沃德,"According to the context, the player who recovered the ball after it was deflected by Miller and bounced back is Ward.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""Ward"" as the player who recovered the ball, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides relevant additional information about how the ball was deflected by Miller and bounced back before being recovered by Ward.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is found in the context.",1,1,0,0
+56d9cb47dc89441400fdb835,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,从牛顿手中拿回球后，丹佛有几次进攻被阻挡在了禁区之外？,三次,"According to the context, Denver's attack was blocked outside the penalty area three times.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d9cb47dc89441400fdb836,当比赛还剩 4 分 51 秒时，卡罗莱纳在自己的 24 码线上拿到了球，他们本有机会获得一记制胜球，但很快就面临第三档和第九档进攻。在接下里的比赛中，米勒把球从牛顿手中拍掉，几名球员扑过去后，球长时间向后弹回并被沃德夺回，沃德把球扔回距离黑豹队 4 码线五码的位置。尽管有几名球员冲进人堆里试图重新接球，但牛顿并没有这样做，他缺乏攻击性的行为后来招致了严厉的批评。与此同时，丹佛的进攻有三次都被挡在了禁区之外，但角卫约什·诺曼的拉人犯规给了野马队新一轮的进攻机会。接着安德森在 2 码线触地得分，曼宁将球传给本尼·福勒进行两分转换，帮助丹佛在比赛还剩 3 分 08 秒时以 24-10 领先，最终将比分拉开。卡罗莱纳还有两次以上击球，但未能在每次击球获得第一档进攻。,在第四节中，在 2 码线触地得分的球员姓什么？,安德森,"According to the context, the player who scored a touchdown at the 2-yard line is 安德森 (Anderson).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the player who scored a touchdown at the 2-yard line as ""安德森 (Anderson)"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+57339c16d058e614000b5ec5,夏季剧院位于附近的萨克森花园（波兰语：Ogród Saski）中，从 1870 年到 1939 年运营，在两次世界大战期间，剧院综合体还包括华沙的第一家文艺歌厅摩摩斯 (Momus)和里昂·席勒的音乐剧剧院梅洛德拉姆 (Melodram)。沃伊切赫波古斯洛斯基剧院 (Wojciech Bogusławski Theatre) (1922–26) 是“波兰纪念剧院”的最佳典范。从 20 世纪 30 年代中期开始，这座大剧院大楼就成为乌帕提戏剧艺术学院的所在地，这是第一所国立戏剧艺术学院，设有表演系和舞台导演系。,萨克森花园用波兰语怎么说？,Ogród Saski,"According to the context, the Saxon Garden is referred to as ""Ogród Saski"" in Polish.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+57339c16d058e614000b5ec6,夏季剧院位于附近的萨克森花园（波兰语：Ogród Saski）中，从 1870 年到 1939 年运营，在两次世界大战期间，剧院综合体还包括华沙的第一家文艺歌厅摩摩斯 (Momus)和里昂·席勒的音乐剧剧院梅洛德拉姆 (Melodram)。沃伊切赫波古斯洛斯基剧院 (Wojciech Bogusławski Theatre) (1922–26) 是“波兰纪念剧院”的最佳典范。从 20 世纪 30 年代中期开始，这座大剧院大楼就成为乌帕提戏剧艺术学院的所在地，这是第一所国立戏剧艺术学院，设有表演系和舞台导演系。,夏季剧院在哪里？,萨克森花园,根据上下文，夏季剧院位于波兰的萨克森花园（Ogród Saski）中。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies that the Summer Theatre is located in the Saxon Garden (Ogród Saski) in Poland, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information that the Saxon Garden is in Poland, which is relevant and enhances the understanding of the location of the Summer Theatre.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All information in the prediction answer can be found in the context.",1,1,0,0
+57339c16d058e614000b5ec7,夏季剧院位于附近的萨克森花园（波兰语：Ogród Saski）中，从 1870 年到 1939 年运营，在两次世界大战期间，剧院综合体还包括华沙的第一家文艺歌厅摩摩斯 (Momus)和里昂·席勒的音乐剧剧院梅洛德拉姆 (Melodram)。沃伊切赫波古斯洛斯基剧院 (Wojciech Bogusławski Theatre) (1922–26) 是“波兰纪念剧院”的最佳典范。从 20 世纪 30 年代中期开始，这座大剧院大楼就成为乌帕提戏剧艺术学院的所在地，这是第一所国立戏剧艺术学院，设有表演系和舞台导演系。,夏季剧院运营多长时间了？,1870 年到 1939 年,根据文本，夏季剧院从 1870 年到 1939 年运营，运营了 69 年。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree",1,0,0,1
+57339c16d058e614000b5ec8,夏季剧院位于附近的萨克森花园（波兰语：Ogród Saski）中，从 1870 年到 1939 年运营，在两次世界大战期间，剧院综合体还包括华沙的第一家文艺歌厅摩摩斯 (Momus)和里昂·席勒的音乐剧剧院梅洛德拉姆 (Melodram)。沃伊切赫波古斯洛斯基剧院 (Wojciech Bogusławski Theatre) (1922–26) 是“波兰纪念剧院”的最佳典范。从 20 世纪 30 年代中期开始，这座大剧院大楼就成为乌帕提戏剧艺术学院的所在地，这是第一所国立戏剧艺术学院，设有表演系和舞台导演系。,华沙的第一家文艺歌厅是什么？,摩摩斯 (Momus),"According to the context, the first art song hall in Warsaw is called ""Momus"" (摩摩斯).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""Momus"" as the first art song hall in Warsaw.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+57339c16d058e614000b5ec9,夏季剧院位于附近的萨克森花园（波兰语：Ogród Saski）中，从 1870 年到 1939 年运营，在两次世界大战期间，剧院综合体还包括华沙的第一家文艺歌厅摩摩斯 (Momus)和里昂·席勒的音乐剧剧院梅洛德拉姆 (Melodram)。沃伊切赫波古斯洛斯基剧院 (Wojciech Bogusławski Theatre) (1922–26) 是“波兰纪念剧院”的最佳典范。从 20 世纪 30 年代中期开始，这座大剧院大楼就成为乌帕提戏剧艺术学院的所在地，这是第一所国立戏剧艺术学院，设有表演系和舞台导演系。,哪家剧院是“华沙纪念剧院”的最佳典范？,沃伊切赫波古斯洛斯基剧院 (Wojciech Bogusławski Theatre),根据文本，沃伊切赫波古斯洛斯基剧院 (Wojciech Bogusławski Theatre) 是“波兰纪念剧院”的最佳典范。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the ""Wojciech Bogusławski Theatre"" as the best example of the ""Polish Memorial Theatre"", which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context. It simply restates the information from the passage in a different way.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional, irrelevant information from the context. It is directly related to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. It is entirely based on the information provided in the passage.",1,0,0,0
+5733a32bd058e614000b5f32,他们在当地的竞争对手是华沙波兰人队，其支持者明显较少，但他们设法赢得了 2000 年 Ekstraklasa 锦标赛。他们还夺得了 1946 年的全国冠军以及两次世界冠军。波兰人队的主场位于 Konwiktorska 大街，从老城区向北步行 10 分钟即可到达。由于糟糕的财务状况，波兰人队于 2013 年从该国顶级联赛降级。他们如今在第四联赛（波兰第五梯队）踢球，这是波兰国家足球协会 (PZPN) 架构中级别最低的职业联赛。,谁嬴得了 2000 年 Ekstraklasa 锦标赛？,华沙波兰人队,根据上下文，答案是他们（波兰人队的对手），他们虽然支持者较少，但设法赢得了 2000 年 Ekstraklasa 锦标赛。,"1. The Answer is Correct concerning the Reference Answer. Disagree
+The prediction answer is incorrect. The passage states that the Warsaw Poles team (华沙波兰人队), not their competitors, won the 2000 Ekstraklasa Championship.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Disagree
+The prediction answer includes incorrect information from the context. The passage does not state that the competitors of the Warsaw Poles team won the 2000 Ekstraklasa Championship.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Agree
+The prediction answer includes irrelevant information about the team's supporters and their struggle to win the championship, which is not directly related to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Disagree
+The prediction answer does not include any information that is not found in the context. However, the interpretation of the context is incorrect.",0,0,1,0
+5733a32bd058e614000b5f33,他们在当地的竞争对手是华沙波兰人队，其支持者明显较少，但他们设法赢得了 2000 年 Ekstraklasa 锦标赛。他们还夺得了 1946 年的全国冠军以及两次世界冠军。波兰人队的主场位于 Konwiktorska 大街，从老城区向北步行 10 分钟即可到达。由于糟糕的财务状况，波兰人队于 2013 年从该国顶级联赛降级。他们如今在第四联赛（波兰第五梯队）踢球，这是波兰国家足球协会 (PZPN) 架构中级别最低的职业联赛。,华沙波兰人队在 2000 年之前是什么时候夺得全国冠军的？,1946 年,"According to the context, 华沙波兰人队 (Polish team) won the national championship in 1946, not before 2000.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the Polish team won the national championship in 1946.
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+5733a32bd058e614000b5f34,他们在当地的竞争对手是华沙波兰人队，其支持者明显较少，但他们设法赢得了 2000 年 Ekstraklasa 锦标赛。他们还夺得了 1946 年的全国冠军以及两次世界冠军。波兰人队的主场位于 Konwiktorska 大街，从老城区向北步行 10 分钟即可到达。由于糟糕的财务状况，波兰人队于 2013 年从该国顶级联赛降级。他们如今在第四联赛（波兰第五梯队）踢球，这是波兰国家足球协会 (PZPN) 架构中级别最低的职业联赛。,波兰人队赢得过多少次奖杯？,两次,"According to the context, the team has won:
+
+* 1 Ekstraklasa championship (2000)
+* 1 national championship (1946)
+* 2 World championships
+
+So, in total, they have won 4 trophies.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The reference answer states ""两次"" (two times), but the prediction answer states that they have won 4 trophies.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the specific championships the team has won, which is relevant and accurate according to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question and is found in the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is found in the context.",0,1,0,0
+5733a32bd058e614000b5f35,他们在当地的竞争对手是华沙波兰人队，其支持者明显较少，但他们设法赢得了 2000 年 Ekstraklasa 锦标赛。他们还夺得了 1946 年的全国冠军以及两次世界冠军。波兰人队的主场位于 Konwiktorska 大街，从老城区向北步行 10 分钟即可到达。由于糟糕的财务状况，波兰人队于 2013 年从该国顶级联赛降级。他们如今在第四联赛（波兰第五梯队）踢球，这是波兰国家足球协会 (PZPN) 架构中级别最低的职业联赛。,波兰人队的主场在哪里？,Konwiktorska 大街,根据文本，波兰人队的主场位于 Konwiktorska 大街，从老城区向北步行 10 分钟即可到达。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the location of the home ground of the Polish team as Konwiktorska Street.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the relevant additional information that the location is a 10-minute walk north from the old town, which is from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the question and does not include any irrelevant details.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+5733a32bd058e614000b5f36,他们在当地的竞争对手是华沙波兰人队，其支持者明显较少，但他们设法赢得了 2000 年 Ekstraklasa 锦标赛。他们还夺得了 1946 年的全国冠军以及两次世界冠军。波兰人队的主场位于 Konwiktorska 大街，从老城区向北步行 10 分钟即可到达。由于糟糕的财务状况，波兰人队于 2013 年从该国顶级联赛降级。他们如今在第四联赛（波兰第五梯队）踢球，这是波兰国家足球协会 (PZPN) 架构中级别最低的职业联赛。,为什么波兰人队在 2013 年从该国顶级联赛降级？,糟糕的财务状况,根据上下文，波兰人队在 2013 年从该国顶级联赛降级是由于糟糕的财务状况。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the team was relegated due to poor financial conditions, which matches the reference answer.
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+57338007d058e614000b5bda,"华沙自古以来就是一个多元文化的城市。根据 1901 年的人口普查，711,988 名居民中，天主教徒占 56.2%，犹太人占 35.7%，希腊东正教徒占 5%，新教徒占 2.8%。八年后，在 1909 年有 281,754 名犹太人 (36.9%)、18,189 名新教徒 (2.4%) 和 2,818 名玛利亚派 (0.4%)。这导致该镇各地修建了数百个宗教礼拜场所，其中大部分在 1944 年华沙起义后被摧毁。战争结束后，波兰的新共产主义当局不鼓励建造教堂，只有一小部分教堂得以重建。",自从华沙成为一座城市以来，她一直是一座什么样的城市？,多元文化,根据文本，华沙自古以来是一座多元文化的城市。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies that Warsaw has been a multicultural city since ancient times, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context beyond stating that Warsaw is a multicultural city.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+57338007d058e614000b5bdb,"华沙自古以来就是一个多元文化的城市。根据 1901 年的人口普查，711,988 名居民中，天主教徒占 56.2%，犹太人占 35.7%，希腊东正教徒占 5%，新教徒占 2.8%。八年后，在 1909 年有 281,754 名犹太人 (36.9%)、18,189 名新教徒 (2.4%) 和 2,818 名玛利亚派 (0.4%)。这导致该镇各地修建了数百个宗教礼拜场所，其中大部分在 1944 年华沙起义后被摧毁。战争结束后，波兰的新共产主义当局不鼓励建造教堂，只有一小部分教堂得以重建。",1901 年华沙的人口是多少？,"711,988","根据文本，1901 年华沙的人口是 711,988 名。","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer accurately states that the population of Warsaw in 1901 was 711,988, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context. It simply restates the question and provides the correct answer.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information. It directly answers the question without adding any unnecessary details.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. It accurately reflects the information provided in the passage.",1,0,0,0
+57338007d058e614000b5bdc,"华沙自古以来就是一个多元文化的城市。根据 1901 年的人口普查，711,988 名居民中，天主教徒占 56.2%，犹太人占 35.7%，希腊东正教徒占 5%，新教徒占 2.8%。八年后，在 1909 年有 281,754 名犹太人 (36.9%)、18,189 名新教徒 (2.4%) 和 2,818 名玛利亚派 (0.4%)。这导致该镇各地修建了数百个宗教礼拜场所，其中大部分在 1944 年华沙起义后被摧毁。战争结束后，波兰的新共产主义当局不鼓励建造教堂，只有一小部分教堂得以重建。",1901 年华沙居民中天主教徒的比例是多少？,56.2%,根据文本，1901 年华沙居民中天主教徒占 56.2%。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the proportion of Catholics in Warsaw in 1901 was 56.2%, which matches the reference answer.
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+57338007d058e614000b5bdd,"华沙自古以来就是一个多元文化的城市。根据 1901 年的人口普查，711,988 名居民中，天主教徒占 56.2%，犹太人占 35.7%，希腊东正教徒占 5%，新教徒占 2.8%。八年后，在 1909 年有 281,754 名犹太人 (36.9%)、18,189 名新教徒 (2.4%) 和 2,818 名玛利亚派 (0.4%)。这导致该镇各地修建了数百个宗教礼拜场所，其中大部分在 1944 年华沙起义后被摧毁。战争结束后，波兰的新共产主义当局不鼓励建造教堂，只有一小部分教堂得以重建。",1901 年华沙人口中新教徒的比例是多少？,2.8%,根据文本，1901 年华沙人口中新教徒的比例是 2.8%。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+57338007d058e614000b5bde,"华沙自古以来就是一个多元文化的城市。根据 1901 年的人口普查，711,988 名居民中，天主教徒占 56.2%，犹太人占 35.7%，希腊东正教徒占 5%，新教徒占 2.8%。八年后，在 1909 年有 281,754 名犹太人 (36.9%)、18,189 名新教徒 (2.4%) 和 2,818 名玛利亚派 (0.4%)。这导致该镇各地修建了数百个宗教礼拜场所，其中大部分在 1944 年华沙起义后被摧毁。战争结束后，波兰的新共产主义当局不鼓励建造教堂，只有一小部分教堂得以重建。",华沙的大部分宗教场所是什么时候被摧毁的？,1944 年,根据文本，华沙的大部分宗教场所是在 1944 年华沙起义后被摧毁的。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that most religious sites in Warsaw were destroyed after the 1944 Warsaw Uprising, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the context of the destruction, specifying that it occurred after the Warsaw Uprising in 1944, which is relevant to the question.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,1,0,0
+573380e0d058e614000b5be9,波兰领土划分的基本单位是市镇 (gmina)。一个城市也是一个市镇，但有城市宪章。城市和市镇都由市长管理，但在市镇中，市长是 vogt（波兰语：wójt），而在城市中是 burmistrz。一些较大的城市获得第二级行政区——郡 (county) 或县 (powiat)所享有的权利，即任务和特权。这种权利的一个例子是汽车登记：市镇不能登记汽车，这是县的任务（即，汽车的登记号码取决于它登记所在的县而不是市镇）。在这种情况下，我们说的是都市郡或都市县 (powiat grodzki)。这样的城市例子有卢布林 (Lublin)、克拉科夫 (Kraków)、格但斯克 (Gdańsk)、波兹南 (Poznań)。在华沙，地区还拥有一些县的权利——就像前面提到的汽车登记。例如，沃拉区 (Wola) 有自己的证据，尤尔斯诺夫区 (Ursynów) 也有自己的证据（沃拉区的汽车有另一种类型的登记号码，而尤尔斯诺夫区的汽车则没有）。但是，例如克拉科夫的地区没有县的权利，因此克拉科夫所有地区的登记号码都是同一类型的。,波兰领土划分的基本单位是什么？,市镇,"According to the context, the basic unit of territorial division in Poland is the city/town (市镇, gmina).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the basic unit of territorial division in Poland as the city/town (市镇, gmina).
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about the context, specifically the term ""gmina"", which is the Polish term for city/town, enhancing the understanding of the topic.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context. It directly answers the question and provides relevant additional information.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. It accurately reflects the information provided in the passage.",1,1,0,0
+573380e0d058e614000b5bea,波兰领土划分的基本单位是市镇 (gmina)。一个城市也是一个市镇，但有城市宪章。城市和市镇都由市长管理，但在市镇中，市长是 vogt（波兰语：wójt），而在城市中是 burmistrz。一些较大的城市获得第二级行政区——郡 (county) 或县 (powiat)所享有的权利，即任务和特权。这种权利的一个例子是汽车登记：市镇不能登记汽车，这是县的任务（即，汽车的登记号码取决于它登记所在的县而不是市镇）。在这种情况下，我们说的是都市郡或都市县 (powiat grodzki)。这样的城市例子有卢布林 (Lublin)、克拉科夫 (Kraków)、格但斯克 (Gdańsk)、波兹南 (Poznań)。在华沙，地区还拥有一些县的权利——就像前面提到的汽车登记。例如，沃拉区 (Wola) 有自己的证据，尤尔斯诺夫区 (Ursynów) 也有自己的证据（沃拉区的汽车有另一种类型的登记号码，而尤尔斯诺夫区的汽车则没有）。但是，例如克拉科夫的地区没有县的权利，因此克拉科夫所有地区的登记号码都是同一类型的。,波兰第二级行政区是什么？,郡 (county) 或县 (powiat),"According to the context, the second-level administrative division in Poland is a county or powiat (powiat).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+573380e0d058e614000b5beb,波兰领土划分的基本单位是市镇 (gmina)。一个城市也是一个市镇，但有城市宪章。城市和市镇都由市长管理，但在市镇中，市长是 vogt（波兰语：wójt），而在城市中是 burmistrz。一些较大的城市获得第二级行政区——郡 (county) 或县 (powiat)所享有的权利，即任务和特权。这种权利的一个例子是汽车登记：市镇不能登记汽车，这是县的任务（即，汽车的登记号码取决于它登记所在的县而不是市镇）。在这种情况下，我们说的是都市郡或都市县 (powiat grodzki)。这样的城市例子有卢布林 (Lublin)、克拉科夫 (Kraków)、格但斯克 (Gdańsk)、波兹南 (Poznań)。在华沙，地区还拥有一些县的权利——就像前面提到的汽车登记。例如，沃拉区 (Wola) 有自己的证据，尤尔斯诺夫区 (Ursynów) 也有自己的证据（沃拉区的汽车有另一种类型的登记号码，而尤尔斯诺夫区的汽车则没有）。但是，例如克拉科夫的地区没有县的权利，因此克拉科夫所有地区的登记号码都是同一类型的。,在哪些地区，所有汽车的注册号码都是同一类型的？,克拉科夫,根据上下文，克拉科夫 (Kraków) 是一个例子，在这里所有地区的汽车登记号码都是同一类型的。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""Kraków"" as the area where all car registration numbers are of the same type.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information that is relevant and enhances the understanding of the topic, such as the fact that Kraków is an example of a city where all car registration numbers are of the same type.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,1,0,0
+5733834ed058e614000b5c26,华沙的第一家证券交易所成立于 1817 年，一直营业到第二次世界大战。1991 年 4 月，在战后共产党结束对该国的控制并重新引入自由市场经济之后，交易所得以重建。如今，许多指标显示，华沙证券交易所 (WSE) 是该地区最大的市场，截至 2009 年 8 月 31 日，有 374家上市公司，总资本 1625.84 亿欧元。具有讽刺意味的是，从 1991 年到 2000 年，证券交易所坐落在波兰联合工人党 (PZPR) 的前总部大楼里。,华沙第一家证券交易所是什么时候建立的？,1817 年,根据提供的背景信息，华沙的第一家证券交易所成立于 1817 年。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the first stock exchange in Warsaw was established in 1817.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+5733834ed058e614000b5c27,华沙的第一家证券交易所成立于 1817 年，一直营业到第二次世界大战。1991 年 4 月，在战后共产党结束对该国的控制并重新引入自由市场经济之后，交易所得以重建。如今，许多指标显示，华沙证券交易所 (WSE) 是该地区最大的市场，截至 2009 年 8 月 31 日，有 374家上市公司，总资本 1625.84 亿欧元。具有讽刺意味的是，从 1991 年到 2000 年，证券交易所坐落在波兰联合工人党 (PZPR) 的前总部大楼里。,华沙证券交易所停止运营的原因是什么？,第二次世界大战,根据提供的信息，华沙证券交易所停止运营的原因是第二次世界大战。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+5733834ed058e614000b5c28,华沙的第一家证券交易所成立于 1817 年，一直营业到第二次世界大战。1991 年 4 月，在战后共产党结束对该国的控制并重新引入自由市场经济之后，交易所得以重建。如今，许多指标显示，华沙证券交易所 (WSE) 是该地区最大的市场，截至 2009 年 8 月 31 日，有 374家上市公司，总资本 1625.84 亿欧元。具有讽刺意味的是，从 1991 年到 2000 年，证券交易所坐落在波兰联合工人党 (PZPR) 的前总部大楼里。,华沙证券交易所是什么时候恢复运营的？,1991 年 4 月,根据文本，华沙证券交易所在 1991 年 4 月恢复运营。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the Warsaw Stock Exchange resumed operations in April 1991, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context. It simply restates the reference answer with a slight rephrasing.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional, irrelevant information. It sticks to the question and provides a direct answer.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. It accurately reflects the information provided in the passage.",1,0,0,0
+5733834ed058e614000b5c29,华沙的第一家证券交易所成立于 1817 年，一直营业到第二次世界大战。1991 年 4 月，在战后共产党结束对该国的控制并重新引入自由市场经济之后，交易所得以重建。如今，许多指标显示，华沙证券交易所 (WSE) 是该地区最大的市场，截至 2009 年 8 月 31 日，有 374家上市公司，总资本 1625.84 亿欧元。具有讽刺意味的是，从 1991 年到 2000 年，证券交易所坐落在波兰联合工人党 (PZPR) 的前总部大楼里。,2009 年 8 月，有多少家公司在华沙证券交易所上市？,374,根据提供的信息，截至 2009 年 8 月 31 日，有 374 家公司在华沙证券交易所上市。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that there were 374 companies listed on the Warsaw Stock Exchange as of August 31, 2009, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context. It only restates the information asked in the question.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information. It directly answers the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. It accurately reflects the information provided in the passage.",1,0,0,0
+5733834ed058e614000b5c2a,华沙的第一家证券交易所成立于 1817 年，一直营业到第二次世界大战。1991 年 4 月，在战后共产党结束对该国的控制并重新引入自由市场经济之后，交易所得以重建。如今，许多指标显示，华沙证券交易所 (WSE) 是该地区最大的市场，截至 2009 年 8 月 31 日，有 374家上市公司，总资本 1625.84 亿欧元。具有讽刺意味的是，从 1991 年到 2000 年，证券交易所坐落在波兰联合工人党 (PZPR) 的前总部大楼里。,在 2000 年以前，华沙证券交易所所在的大楼是什么组织的前总部？,波兰联合工人党,根据文本，2000 年以前，华沙证券交易所所在的大楼是波兰联合工人党（PZPR）的前总部大楼。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies that the building where the Warsaw Stock Exchange was located before 2000 was the former headquarters of the Polish United Workers' Party (PZPR).
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56dde1d966d3e219004dad8d,在罗洛 大军到来之前，它的人口与皮卡第 (Picardy) 或法兰西岛 (Île-de-France) 没有差别，都被视为“法兰克人”。早期的维京定居者在 880 年代已经开始抵达，东部的殖民地（Roumois 和 Pays de Caux）分布在低塞纳河谷周围，西部的殖民地位于科唐坦半岛，他们被传统的 pagii 所分隔，那里的人口保持不变，几乎没有外国定居者。罗洛的部队突袭诺曼底并最终在大西洋沿岸部分地区定居下来，其中包括丹麦人、挪威人、诺斯人、奥克尼维京人（可能是瑞典人）以及盎格鲁–丹麦人（来自诺斯控制下的英属丹麦区）。,谁的到来给了原维京定居者一个共同的身份？,罗洛,"According to the context, it was the arrival of Rollo's army that gave the original Viking settlers a common identity.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56de0daecffd8e1900b4b595,"欧特维尔的坦克雷德 (Tancred of Hauteville) 和德伦戈特 (Drengot) 家族的后裔是抵达地中海的两个最著名的诺曼家族。1030 年，拉努夫·德伦戈特 (Rainulf Drengot) 从那不勒斯公爵塞尔吉乌斯四世 (Sergius IV) 手中接过南部第一个诺曼人据点阿韦尔萨 (Aversa) 郡。欧特维尔家族宣布萨勒诺王子盖马尔四世 (Guaimar IV) 为“阿普利亚和卡拉布里亚公爵”，从而获得了王子地位。他随即在首都梅尔菲 (Melfi) 将伯爵头衔授予他们当选的领导人铁壁威廉 (William Iron Arm)。此后，德伦戈特家族获得了卡普阿 (Capua) 公国，国王亨利三世于 1047 年正式册封欧特维尔领袖卓戈 (Drogo)为“意大利公爵和主人，以及所有阿普利亚和卡拉布里亚的诺曼伯爵”(""dux et magister Italiae comesque Normannorum totius Apuliae et Calabriae"")。",亨利三世册封的领袖叫什么名字？,卓戈 (Drogo),根据文本，亨利三世册封的领袖叫卓戈（Drogo）。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the leader crowned by Henry III as Drogo, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56de0daecffd8e1900b4b596,"欧特维尔的坦克雷德 (Tancred of Hauteville) 和德伦戈特 (Drengot) 家族的后裔是抵达地中海的两个最著名的诺曼家族。1030 年，拉努夫·德伦戈特 (Rainulf Drengot) 从那不勒斯公爵塞尔吉乌斯四世 (Sergius IV) 手中接过南部第一个诺曼人据点阿韦尔萨 (Aversa) 郡。欧特维尔家族宣布萨勒诺王子盖马尔四世 (Guaimar IV) 为“阿普利亚和卡拉布里亚公爵”，从而获得了王子地位。他随即在首都梅尔菲 (Melfi) 将伯爵头衔授予他们当选的领导人铁壁威廉 (William Iron Arm)。此后，德伦戈特家族获得了卡普阿 (Capua) 公国，国王亨利三世于 1047 年正式册封欧特维尔领袖卓戈 (Drogo)为“意大利公爵和主人，以及所有阿普利亚和卡拉布里亚的诺曼伯爵”(""dux et magister Italiae comesque Normannorum totius Apuliae et Calabriae"")。",谁是梅尔菲伯爵？,铁壁威廉 (William Iron Arm),根据上下文，铁壁威廉 (William Iron Arm) 是欧特维尔家族的领导人，当选的领导人，他被萨勒诺王子盖马尔四世 (Guaimar IV) 授予伯爵头衔。因此，铁壁威廉是梅尔菲伯爵。,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies ""铁壁威廉 (William Iron Arm)"" as the Count of Melfi, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides additional information about how William Iron Arm came to be the Count of Melfi, which is relevant to the question and enhances understanding.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0

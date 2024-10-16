@@ -1,0 +1,1070 @@
+id,context,question,references,predictions,model_gpt4,model_q1,model_q2,model_q3,model_q4
+56beb4343aeaaa14008c925b,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many points did the Panthers defense surrender?,308,"
+The Panthers defense surrendered 308 points.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the Panthers defense surrendered 308 points, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56beb4343aeaaa14008c925c,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many career sacks did Jared Allen have?,136,"
+Jared Allen had a career high of 5½ sacks.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The reference answer states that Jared Allen had 136 career sacks, while the prediction answer incorrectly states that he had a career high of 5½ sacks.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional relevant information from the context. 
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information about Jared Allen's career high of 5½ sacks, which is not related to the question about his total career sacks.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context, as the passage does not mention Jared Allen having a career high of 5½ sacks.",0,0,1,1
+56beb4343aeaaa14008c925d,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many tackles did Luke Kuechly register?,118,"
+Luke Kuechly registered 118 tackles in 10 games.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The predicted answer correctly states that Luke Kuechly registered 118 tackles, which matches the reference answer.
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The predicted answer includes additional information that Luke Kuechly registered 118 tackles in 10 games, but this information is not mentioned in the context.
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The number of games in which Luke Kuechly registered 118 tackles is irrelevant to the question asked.
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The context does not mention the number of games in which Luke Kuechly registered 118 tackles.",1,0,1,1
+56beb4343aeaaa14008c925e,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many balls did Josh Norman intercept?,four,"
+Josh Norman intercepted four passes during the season.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56beb4343aeaaa14008c925f,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",Who registered the most sacks on the team this season?,Kawann Short,"
+Kwanin Short","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect as it misspells the name of the player. The correct name is ""Kawann Short"", not ""Kwanin Short"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes incorrect information not found in the context, specifically the misspelled name ""Kwanin Short"".",0,0,1,1
+56d6f3500d65d21400198290,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many interceptions are the Panthers defense credited with in 2015?,24,"
+The Panthers defense credited with 24 interceptions in 2015.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d6f3500d65d21400198291,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",Who led the Panthers in sacks?,Kawann Short,"
+Kawann Short led the Panthers in sacks with 11.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies Kawann Short as the player who led the Panthers in sacks.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer adds the relevant detail from the passage that Kawann Short had 11 sacks.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the passage.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the passage.",1,1,0,0
+56d6f3500d65d21400198292,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many Panthers defense players were selected for the Pro Bowl?,four,"
+The Panthers defense had 13 players selected for the Pro Bowl.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The passage states that four Panthers defense players were selected for the Pro Bowl, not 13.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information about the number of Panthers defense players selected for the Pro Bowl, which is not supported by the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information that is not found in the context. The passage does not mention 13 Panthers defense players being selected for the Pro Bowl.",0,0,1,1
+56d6f3500d65d21400198293,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many forced fumbles did Thomas Davis have?,four,"
+Thomas Davis had 5½ sacks.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer does not match the reference answer. The question asks about forced fumbles, not sacks.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer is not relevant to the question asked. 
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes information about Thomas Davis' sacks, which is not relevant to the question about forced fumbles.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer is found in the context, but it is not relevant to the question asked.",0,0,1,0
+56d6f3500d65d21400198294,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",Which player had the most interceptions for the season?,Kurt Coleman,"
+Kony Ealy","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The correct answer according to the passage is Kurt Coleman, not Kony Ealy.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The answer does not provide any additional information, relevant or irrelevant.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The answer does not include any information that is not found in the context.",0,0,0,0
+56d9992fdc89441400fdb59c,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many 2015 season interceptions did the Panthers' defense get?,24,"
+The Panthers' defense got 24 interceptions in the 2015 season.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree? 
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree? 
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree? 
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree? 
+Disagree",1,0,0,0
+56d9992fdc89441400fdb59e,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",Who had five sacks in nine games as a Carolina Panthers starter?,Kony Ealy,"
+Kony Ealy","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9992fdc89441400fdb59f,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",Who was the Panthers' tackle leader for 2015?,Luke Kuechly.,"
+The Panthers' tackle leader for 2015 was Mario Addison. He had 6½ sacks, which was the most sacks by a Panthers offensive lineman in a single season.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The passage states that Luke Kuechly led the team in tackles, not Mario Addison.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The additional information about Mario Addison's sacks is not relevant to the question about the Panthers' tackle leader.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The information about Mario Addison's sacks is irrelevant to the question about the Panthers' tackle leader.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context, specifically the claim that Mario Addison's 6½ sacks were the most by a Panthers offensive lineman in a single season. The passage does not provide this information.",0,0,1,1
+56d9992fdc89441400fdb5a0,"The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6½ sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5½ sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.",How many interceptions did Josh Norman score touchdowns with in 2015?,two.,"
+Josh Norman scored four interceptions in 2015.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The question asks for the number of interceptions Josh Norman scored touchdowns with, which is two, not the total number of interceptions he had.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context. It incorrectly states the total number of interceptions Josh Norman had, but does not provide any other details.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information by stating the total number of interceptions Josh Norman had, which is not what the question asked for.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer is found in the context, but it is not relevant to the question asked.",0,0,1,0
+56beb7953aeaaa14008c92ab,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",Who lost to the Broncos in the divisional round?,Pittsburgh Steelers,"
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the Pittsburgh Steelers as the team that lost to the Broncos in the divisional round.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the relevant additional information about the score of the game, which provides more context to the Steelers' loss.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information. All details provided pertain directly to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56beb7953aeaaa14008c92ac,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",How many points did the Broncos score in the last three minutes of the game versus Pittsburgh?,11, The Broncos scored 11 points in the last three minutes of the game.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56beb7953aeaaa14008c92ad,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",Who won Super Bowl XLIX?,New England Patriots,"
+The Denver Broncos won Super Bowl XLIX.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The reference answer states that the New England Patriots won Super Bowl XLIX, while the prediction answer incorrectly states that the Denver Broncos won.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional relevant information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer incorrectly states that the Denver Broncos won Super Bowl XLIX, which is not relevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information that is not found in the context, specifically the incorrect claim that the Denver Broncos won Super Bowl XLIX.",0,0,1,1
+56beb7953aeaaa14008c92ae,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",What was the final score of the AFC Championship Game?,20–18," The Broncos defeated the New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states the final score of the AFC Championship Game as ""20–18"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information from the context about how the Broncos won the game, which enhances the understanding of the topic.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the context and the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56beb7953aeaaa14008c92af,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",How much time remained on the clock when the Broncos made the interception that clinched the AFC Championship Game?,17 seconds,"
+The Broncos made the interception that clinched the AFC Championship Game with 17 seconds remaining on the clock.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56bf36b93aeaaa14008c9561,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",What team was the divisional round winner between the Broncos and Steelers?,Broncos," The Broncos defeated the Steelers in the divisional round, 23–16.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the Broncos as the winner of the divisional round game against the Steelers.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the relevant additional information about the score of the game, which provides more context about the Broncos' victory.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant to the question as it pertains to the game between the Broncos and the Steelers.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is found in the context.",1,1,0,0
+56bf36b93aeaaa14008c9562,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",What was the final score of the game between the Broncos and Steelers?,23–16, The final score of the game between the Broncos and Steelers was 23–16.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56bf36b93aeaaa14008c9563,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",Who won Super Bowl XLIX?,New England Patriots,"
+The Denver Broncos won Super Bowl XLIX.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The passage states that the New England Patriots were the champions of Super Bowl XLIX, not the Denver Broncos.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The answer does not provide any additional information from the context that is relevant to the question.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The answer includes the Denver Broncos, which is irrelevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The answer states that the Denver Broncos won Super Bowl XLIX, which is not mentioned in the passage.",0,0,1,1
+56bf36b93aeaaa14008c9564,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",How many seconds were left in the game when the Broncos intercepted the pass that won the game?,17,"
+The Broncos intercepted the pass that won the game with 17 seconds left on the clock.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56bf36b93aeaaa14008c9565,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.","During the Bronco's playoff games, who did not throw at all?",Manning,"
+During the Bronco's playoff games, no one threw at all.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The passage states that Manning didn't throw any interceptions, not that he didn't throw at all.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information by stating that no one threw at all during the Bronco's playoff games, which is not stated in the passage.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context by stating that no one threw at all during the Bronco's playoff games.",0,0,1,1
+56d7018a0d65d214001982c2,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",Who did the Broncos beat in the divisional game?,Pittsburgh Steelers, The Broncos defeated the Pittsburgh Steelers in the divisional game.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the Pittsburgh Steelers as the team the Broncos beat in the divisional game.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context. It simply restates the question with the correct answer.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context. It is directly related to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. It accurately reflects the information provided in the passage.",1,0,0,0
+56d7018a0d65d214001982c3,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",How many points did the Broncos score in the final three minutes of the Pittsburgh game?,11, The Broncos scored 11 points in the final three minutes of the Pittsburgh game.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d7018a0d65d214001982c5,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",Who did the Broncos defeat in the AFC Championship game?,New England Patriots,"
+The Broncos defeated the New England Patriots in the AFC Championship Game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the New England Patriots as the team the Broncos defeated in the AFC Championship game.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56d99f99dc89441400fdb628,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",Who did the Broncos beat to win their division in 2015?,Pittsburgh Steelers," The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the Pittsburgh Steelers as the team the Broncos beat to win their division in 2015.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant additional information about the score of the game and how the Broncos managed to win.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+56d99f99dc89441400fdb629,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",Who did the Broncos beat tp become the AFC champions?,New England Patriots,"
+The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer does not match the reference answer. The question asks about the AFC champions, which was the New England Patriots, not the Pittsburgh Steelers.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is not relevant to the question asked.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes information about the Broncos defeating the Pittsburgh Steelers, which is irrelevant to the question about the AFC champions.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer is found in the context, but it is not relevant to the question asked.",0,0,1,0
+56d99f99dc89441400fdb62c,"The Broncos defeated the Pittsburgh Steelers in the divisional round, 23–16, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20–18, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.",How many seconds were left in the game when the Patriots failed their 2-point conversion?,17,"
+The Patriots failed their 2-point conversion with 17 seconds left in the game.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56beb86b3aeaaa14008c92bd,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",How old was Peyton Manning when he played in Super Bowl 50?,39, Peyton Manning was 39 years old when he played in Super Bowl 50.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree",1,0,0,1
+56beb86b3aeaaa14008c92be,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",Who previously held the record for being the oldest quarterback to play in a Super Bowl?,John Elway, Peyton Manning,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The passage clearly states that John Elway previously held the record for being the oldest quarterback to play in a Super Bowl, not Peyton Manning.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional, irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",0,0,0,0
+56beb86b3aeaaa14008c92bf,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",How old was John Elway when he played in Super Bowl XXXIII?,38,"
+John Elway was 38 years old when he played in Super Bowl XXXIII.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56beb86b3aeaaa14008c92c0,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",What role does John Elway currently have in the Broncos franchise?,Executive Vice President of Football Operations and General Manager, John Elway is currently Denver's Executive Vice President of Football Operations and General Manager.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer accurately matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56beb86b3aeaaa14008c92c1,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",Who did John Elway play for in Super Bowl XXXIII?,Broncos, John Elway played for the Denver Broncos.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56bf3fd53aeaaa14008c9591,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",What team was the winner of Super Bowl XXXIII?,Broncos, The Denver Broncos,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56bf3fd53aeaaa14008c9592,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",Who is the General Manager for the Broncos?,John Elway, Peyton Manning,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree",0,0,1,1
+56bf3fd53aeaaa14008c9593,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",How old was Elway during his Super Bowl XXXIII win?,38,"
+John Elway was 38 years old during his Super Bowl XXXIII win.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56bf3fd53aeaaa14008c9594,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",Who has the record of being the oldest quarter back in any Super Bowl game?,Peyton Manning, Peyton Manning,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56bf3fd53aeaaa14008c9595,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.","How many teams has Manning played for that reached the Super Bowl, while he was on their team?",two," Peyton Manning has played for 12 different teams that reached the Super Bowl, while he was on their team.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree",0,0,1,1
+56d704430d65d214001982de,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",Peyton Manning took how many different teams to the Super Bowl?,two, Peyton Manning led two different teams to the Super Bowl.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,1,0,0
+56d704430d65d214001982e0,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",Who is the oldest quarterback to play in a Super Bowl?,Peyton Manning, Peyton Manning,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d704430d65d214001982e1,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.","Prior to Manning, who was the oldest quarterback to play in a Super Bowl?",John Elway,"
+John Elway","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d704430d65d214001982e2,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",Which Super Bowl did Elway win at 38 years old?,Super Bowl XXXIII, Super Bowl XXXIII,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9a0eadc89441400fdb63e,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",Who was the first quarterback to take two teams to more than one Super Bowl?,Peyton Manning, Peyton Manning,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9a0eadc89441400fdb63f,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",How old was Manning when he played Super Bowl 50?,39,"
+Peyton Manning was 39 years old when he played Super Bowl 50.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9a0eadc89441400fdb640,"Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.",What is the name of the quarterback who was 38 in Super Bowl XXXIII?,John Elway, Peyton Manning,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The correct answer should be ""John Elway"" but the predicted answer is ""Peyton Manning"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The predicted answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The predicted answer does not include any additional, irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The predicted answer, ""Peyton Manning"", is mentioned in the context, but it is not the correct answer to the question.",0,0,0,0
+56bec6ac3aeaaa14008c93fd,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",How many Grammys has Lady Gaga won?,Six,"
+Lady Gaga has won six Grammy Awards.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56bec6ac3aeaaa14008c93fe,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",What did Lady Gaga sing?,the national anthem,"
+Lady Gaga sang ""The Star-Spangled Banner"" during the National Anthem.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Lady Gaga sang the national anthem.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer includes additional information (""The Star-Spangled Banner"" during the National Anthem), but this information is not provided in the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes additional information (""The Star-Spangled Banner"" during the National Anthem), which is not relevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information (""The Star-Spangled Banner"" during the National Anthem) that is not found in the context.",1,0,1,1
+56bec6ac3aeaaa14008c93ff,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",What award has Marlee Matlin won?,Academy Award,"
+Marlee Matlin has won the Academy Award for Best Supporting Actress for her performance in the 2006 film ""The Terminal.""","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect because the passage does not specify the category of the Academy Award that Marlee Matlin won or the film for which she won it.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer includes additional information that is not relevant to the context, as the passage does not mention the category of the Academy Award that Marlee Matlin won or the film for which she won it.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes additional, irrelevant information from the context. The details about the category of the Academy Award and the film are not mentioned in the passage.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context. The passage does not mention the category of the Academy Award that Marlee Matlin won or the film for which she won it.",0,0,1,1
+56bec6ac3aeaaa14008c9400,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",What did Marlee Matlin translate?,the national anthem,"
+Marlee Matlin provided American Sign Language (ASL) translation for Lady Gaga's performance of the national anthem.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The predicted answer correctly states that Marlee Matlin translated the national anthem.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The predicted answer includes relevant additional information about who performed the national anthem (Lady Gaga), which is directly related to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the predicted answer is relevant to the context and does not stray from the topic.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the predicted answer can be found in the context.",1,1,0,0
+56bec6ac3aeaaa14008c9401,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",Into what language did Marlee Matlin translate the national anthem?,American Sign Language,"
+Marlee Matlin provided American Sign Language (ASL) translation for the national anthem.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Marlee Matlin translated the national anthem into American Sign Language (ASL).
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer adds the relevant detail that the translation was for the national anthem, which is mentioned in the passage.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is found in the context.",1,1,0,0
+56d20650e7d4791d00902614,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",Who sang the national anthem?,Lady Gaga,"
+Lady Gaga","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree? 
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree? 
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree? 
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree? 
+Disagree",1,0,0,0
+56d20650e7d4791d00902615,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",What actress did the ASL translation for the game?,Marlee Matlin,"
+Marlee Matlin","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree? 
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree? 
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree? 
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree? 
+Disagree",1,0,0,0
+56d7253b0d65d214001983d4,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",Who did the National Anthem at Super Bowl 50?,Lady Gaga, Lady Gaga,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d7253b0d65d214001983d5,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",What actor did sign language for the National Anthem at Superbowl 50?,Marlee Matlin,"
+Lady Gaga","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The actor who did sign language for the National Anthem at Superbowl 50 was Marlee Matlin, not Lady Gaga.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information from the context. Lady Gaga's role in the event was to perform the national anthem, not to provide the ASL translation.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",0,0,1,0
+56d9c455dc89441400fdb7c4,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",Who did the Super Bowl 50 National Anthem?,Lady Gaga, Lady Gaga,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9c455dc89441400fdb7c5,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",How many Grammy Award's does the text say Lady Gaga has won?,Six,"
+The text does not mention how many Grammy Award wins Lady Gaga has received.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect as the text clearly states that Lady Gaga has won six Grammy Awards.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information by stating that the text does not mention Lady Gaga's Grammy wins, which is incorrect.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context by stating that the text does not mention Lady Gaga's Grammy wins, which is incorrect.",0,0,1,1
+56d9c455dc89441400fdb7c6,"Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.",Who did the sign language of the National Anthem at Super Bowl 50?,Marlee Matlin, Lady Gaga,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The passage states that Marlee Matlin provided the sign language translation, not Lady Gaga.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information. Lady Gaga is mentioned in the passage, but she did not provide the sign language translation.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",0,0,1,0
+56beca913aeaaa14008c946d,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",On what yard line did Carolina begin with 4:51 left in the game?,24,"
+Carolina began with 4:51 left in the game on their own 24-yard line.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Carolina began on their own 24-yard line with 4:51 left in the game.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context. It simply restates the reference answer in a complete sentence.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional, irrelevant information from the context. It directly answers the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. It is directly derived from the passage.",1,0,0,0
+56beca913aeaaa14008c946e,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",Who fumbled the ball on 3rd-and-9?,Newton,"
+On 3rd-and-9 with 4:51 left in regulation, Carolina got the ball on their own 24-yard line.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer does not mention Newton, who is the correct answer according to the reference.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes relevant information about the game situation when the fumble occurred.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer is relevant to the context of the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer can be found in the context.",0,1,0,0
+56beca913aeaaa14008c946f,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",What Panther defender was called for holding on third down?,Josh Norman,"
+The Panther defender who was called for holding on third down is Jonathan Stewart.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The correct answer is ""Josh Norman"", not ""Jonathan Stewart"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The mention of ""Jonathan Stewart"" is irrelevant as he is not the player who was called for holding on third down.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The name ""Jonathan Stewart"" is not mentioned in the context.",0,0,1,1
+56beca913aeaaa14008c9470,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",What player punched the ball in from the 2?,Anderson,"
+The player who punched the ball in from the 2 was Bennie Fowler.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The correct answer is Anderson, not Bennie Fowler.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The answer does not provide any additional relevant information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The answer includes the irrelevant information that Bennie Fowler was the one who scored from the 2-yard line, which is not true according to the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the answer is found in the context, but it is incorrectly applied.",0,0,1,0
+56beca913aeaaa14008c9471,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",Who was the receiver on the successful 2-point conversion?,Bennie Fowler,"
+The receiver on the successful 2-point conversion was Bennie Fowler.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d726b60d65d214001983ea,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",Who stripped the ball from Newton on a 3rd and nine?,Miller,"
+The ball was stripped by linebacker Harrison Smith on a 3rd and 9 play from the Panthers' 4-yard line.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The reference answer states that ""Miller"" stripped the ball from Newton, but the prediction answer incorrectly names ""Harrison Smith.""
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer includes incorrect information about who stripped the ball and the location of the play.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information about the location of the play, which was not asked in the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer mentions ""linebacker Harrison Smith,"" who is not mentioned in the passage.",0,0,1,1
+56d726b60d65d214001983eb,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",Who recovered the strip ball?,Ward,"
+The strip ball was recovered by Ward.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d726b60d65d214001983ec,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",Which player was criticized for not jumping into the pile to recover the ball?,Newton,"
+The player who was criticized for not jumping into the pile to recover the ball is Cam Newton.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree",1,0,0,1
+56d726b60d65d214001983ed,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.","Which Panthers player got a penalty, which gave the Broncos a new set of downs?",Josh Norman,"
+The Panthers player who got a penalty, which gave the Broncos a new set of downs, was Cam Newton.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer incorrectly identifies Cam Newton as the player who got a penalty, while the reference answer correctly identifies Josh Norman.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional relevant information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer incorrectly includes Cam Newton, which is irrelevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer incorrectly identifies Cam Newton as the player who got a penalty, which is not found in the context.",0,0,1,1
+56d726b60d65d214001983ee,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",How much time was left in the game when Denver took the score to 24-10?,3:08,"
+3:08 left in regulation","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that there were 3:08 left in the game when Denver took the score to 24-10.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56d9cb47dc89441400fdb832,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",What was the time on the clock when Carolina got the ball to their 24-yard line in the fourth quarter?,4:51,"
+The time on the clock when Carolina got the ball to their 24-yard line in the fourth quarter was 4:51.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree? 
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree? 
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree? 
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9cb47dc89441400fdb833,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",What was the last name of the player who took the ball away from Newton late in the fourth quarter?,Miller,"
+The last name of the player who took the ball away from Newton late in the fourth quarter is Miller.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9cb47dc89441400fdb834,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",What is the last name of the player who finally recovered the ball Newton lost in the fourth quarter?,Ward,"
+The last name of the player who finally recovered the ball Newton lost in the fourth quarter is Ward.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9cb47dc89441400fdb835,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",How many plays was Denver kept out of the end zone after getting the ball from Newton?,three,"
+Denver kept out of the end zone after getting the ball from Newton for three plays.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+56d9cb47dc89441400fdb836,"With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9. On the next play, Miller stripped the ball away from Newton, and after several players dove for it, it took a long bounce backwards and was recovered by Ward, who returned it five yards to the Panthers 4-yard line. Although several players dove into the pile to attempt to recover it, Newton did not and his lack of aggression later earned him heavy criticism. Meanwhile, Denver's offense was kept out of the end zone for three plays, but a holding penalty on cornerback Josh Norman gave the Broncos a new set of downs. Then Anderson scored on a 2-yard touchdown run and Manning completed a pass to Bennie Fowler for a 2-point conversion, giving Denver a 24–10 lead with 3:08 left and essentially putting the game away. Carolina had two more drives, but failed to get a first down on each one.",What is the last name of the player who scored a 2-yard touchdown in the fourth quarter?,Anderson,"
+The last name of the player who scored a 2-yard touchdown in the fourth quarter is Anderson.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+57339c16d058e614000b5ec5,"Nearby, in Ogród Saski (the Saxon Garden), the Summer Theatre was in operation from 1870 to 1939, and in the inter-war period, the theatre complex also included Momus, Warsaw's first literary cabaret, and Leon Schiller's musical theatre Melodram. The Wojciech Bogusławski Theatre (1922–26), was the best example of ""Polish monumental theatre"". From the mid-1930s, the Great Theatre building housed the Upati Institute of Dramatic Arts – the first state-run academy of dramatic art, with an acting department and a stage directing department.",What is the Saxon Garden in Polish?,Ogród Saski,"
+The Saxon Garden is a garden located in Warsaw, Poland. It was originally a medieval garden, but it was later converted into a modern park. The Saxon Garden is a popular tourist attraction, and it is a popular place for people to go for a walk or to have a picnic.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer does not provide the correct translation of ""Saxon Garden"" in Polish, which is ""Ogród Saski"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer provides additional information about the Saxon Garden, but this information is not relevant to the question asked nor is it found in the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes additional information about the Saxon Garden being a popular tourist attraction and a place for walks and picnics, which is irrelevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information about the Saxon Garden being a medieval garden converted into a modern park, and its popularity as a tourist attraction, none of which is mentioned in the context.",0,0,1,1
+57339c16d058e614000b5ec6,"Nearby, in Ogród Saski (the Saxon Garden), the Summer Theatre was in operation from 1870 to 1939, and in the inter-war period, the theatre complex also included Momus, Warsaw's first literary cabaret, and Leon Schiller's musical theatre Melodram. The Wojciech Bogusławski Theatre (1922–26), was the best example of ""Polish monumental theatre"". From the mid-1930s, the Great Theatre building housed the Upati Institute of Dramatic Arts – the first state-run academy of dramatic art, with an acting department and a stage directing department.",Where was the Summer Theatre located?,Saxon Garden,"
+The Summer Theatre was located in Warsaw, Poland.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The reference answer specifies ""Saxon Garden"" as the location of the Summer Theatre, while the prediction answer states ""Warsaw, Poland,"" which is not as specific.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the information that the Summer Theatre was located in Warsaw, Poland, which, while true, is not relevant to the specific question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer is found in the context.",0,0,1,0
+57339c16d058e614000b5ec7,"Nearby, in Ogród Saski (the Saxon Garden), the Summer Theatre was in operation from 1870 to 1939, and in the inter-war period, the theatre complex also included Momus, Warsaw's first literary cabaret, and Leon Schiller's musical theatre Melodram. The Wojciech Bogusławski Theatre (1922–26), was the best example of ""Polish monumental theatre"". From the mid-1930s, the Great Theatre building housed the Upati Institute of Dramatic Arts – the first state-run academy of dramatic art, with an acting department and a stage directing department.",How long was the Summer Theatre in operation?,1870 to 1939,"
+The Summer Theatre in Warsaw was in operation from 1870 to 1939.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states the years of operation for the Summer Theatre, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the location of the Summer Theatre, which is relevant to the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information in the prediction answer can be found in the context.",1,1,0,0
+57339c16d058e614000b5ec8,"Nearby, in Ogród Saski (the Saxon Garden), the Summer Theatre was in operation from 1870 to 1939, and in the inter-war period, the theatre complex also included Momus, Warsaw's first literary cabaret, and Leon Schiller's musical theatre Melodram. The Wojciech Bogusławski Theatre (1922–26), was the best example of ""Polish monumental theatre"". From the mid-1930s, the Great Theatre building housed the Upati Institute of Dramatic Arts – the first state-run academy of dramatic art, with an acting department and a stage directing department.",What was Warsaw's first literary cabaret?,Momus,"
+The answer to this question is:
+The answer is: Leon Schiller's musical theatre Melodram.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The reference answer is ""Momus"", but the predicted answer is ""Leon Schiller's musical theatre Melodram.""
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The predicted answer does not provide any additional relevant information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The predicted answer includes irrelevant information about ""Leon Schiller's musical theatre Melodram,"" which is not related to the question about Warsaw's first literary cabaret.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the predicted answer is found in the context, but it is not relevant to the question asked.",0,0,1,0
+57339c16d058e614000b5ec9,"Nearby, in Ogród Saski (the Saxon Garden), the Summer Theatre was in operation from 1870 to 1939, and in the inter-war period, the theatre complex also included Momus, Warsaw's first literary cabaret, and Leon Schiller's musical theatre Melodram. The Wojciech Bogusławski Theatre (1922–26), was the best example of ""Polish monumental theatre"". From the mid-1930s, the Great Theatre building housed the Upati Institute of Dramatic Arts – the first state-run academy of dramatic art, with an acting department and a stage directing department.","What theatre was the best example of ""Polish monumental theatre""?",Wojciech Bogusławski Theatre, The Wojciech Bogusławski Theatre (1922–26),"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the ""Wojciech Bogusławski Theatre"" as the best example of ""Polish monumental theatre"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the relevant additional information about the years of operation of the ""Wojciech Bogusławski Theatre"" (1922–26).
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is relevant and directly related to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+5733a32bd058e614000b5f32,"Their local rivals, Polonia Warsaw, have significantly fewer supporters, yet they managed to win Ekstraklasa Championship in 2000. They also won the country’s championship in 1946, and won the cup twice as well. Polonia's home venue is located at Konwiktorska Street, a ten-minute walk north from the Old Town. Polonia was relegated from the country's top flight in 2013 because of their disastrous financial situation. They are now playing in the 4th league (5th tier in Poland) -the bottom professional league in the National – Polish Football Association (PZPN) structure.",Who won the Ekstraklasa Championship in 2000?,Polonia Warsaw,"
+Polonia Warsaw won the Ekstraklasa Championship in 2000.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+5733a32bd058e614000b5f33,"Their local rivals, Polonia Warsaw, have significantly fewer supporters, yet they managed to win Ekstraklasa Championship in 2000. They also won the country’s championship in 1946, and won the cup twice as well. Polonia's home venue is located at Konwiktorska Street, a ten-minute walk north from the Old Town. Polonia was relegated from the country's top flight in 2013 because of their disastrous financial situation. They are now playing in the 4th league (5th tier in Poland) -the bottom professional league in the National – Polish Football Association (PZPN) structure.",When did Polonia Warsaw win the country's championship prior to 2000?,1946, Polonia won the country's championship in 1946.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Polonia Warsaw won the country's championship in 1946.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+5733a32bd058e614000b5f34,"Their local rivals, Polonia Warsaw, have significantly fewer supporters, yet they managed to win Ekstraklasa Championship in 2000. They also won the country’s championship in 1946, and won the cup twice as well. Polonia's home venue is located at Konwiktorska Street, a ten-minute walk north from the Old Town. Polonia was relegated from the country's top flight in 2013 because of their disastrous financial situation. They are now playing in the 4th league (5th tier in Poland) -the bottom professional league in the National – Polish Football Association (PZPN) structure.",How many times has Polonia won the cup?,twice, Polonia has won the cup twice.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+5733a32bd058e614000b5f35,"Their local rivals, Polonia Warsaw, have significantly fewer supporters, yet they managed to win Ekstraklasa Championship in 2000. They also won the country’s championship in 1946, and won the cup twice as well. Polonia's home venue is located at Konwiktorska Street, a ten-minute walk north from the Old Town. Polonia was relegated from the country's top flight in 2013 because of their disastrous financial situation. They are now playing in the 4th league (5th tier in Poland) -the bottom professional league in the National – Polish Football Association (PZPN) structure.",Where is Polonia's home venue located?,Konwiktorska Street,"
+Polonia's home venue is located at Konwiktorska Street, a ten-minute walk north from the Old Town.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the location of Polonia's home venue as Konwiktorska Street.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The additional information about the venue being a ten-minute walk north from the Old Town is relevant and provides a better understanding of the location.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the answer is relevant to the question.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the answer can be found in the context.",1,1,0,0
+5733a32bd058e614000b5f36,"Their local rivals, Polonia Warsaw, have significantly fewer supporters, yet they managed to win Ekstraklasa Championship in 2000. They also won the country’s championship in 1946, and won the cup twice as well. Polonia's home venue is located at Konwiktorska Street, a ten-minute walk north from the Old Town. Polonia was relegated from the country's top flight in 2013 because of their disastrous financial situation. They are now playing in the 4th league (5th tier in Poland) -the bottom professional league in the National – Polish Football Association (PZPN) structure.",Why was Polonia relegated from the country's top flight in 2013?,disastrous financial situation,"
+Polonia was relegated from the country's top flight in 2013 due to their disastrous financial situation. They were unable to pay their players' wages and other expenses, which led to a decrease in their overall performance.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that Polonia was relegated due to their disastrous financial situation.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer includes additional information about the inability to pay players' wages and a decrease in performance, but this information is not provided in the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The details about the inability to pay players' wages and a decrease in performance are irrelevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The context does not provide any information about the inability to pay players' wages and a decrease in performance.",1,0,1,1
+57338007d058e614000b5bda,"Throughout its existence, Warsaw has been a multi-cultural city. According to the 1901 census, out of 711,988 inhabitants 56.2% were Catholics, 35.7% Jews, 5% Greek orthodox Christians and 2.8% Protestants. Eight years later, in 1909, there were 281,754 Jews (36.9%), 18,189 Protestants (2.4%) and 2,818 Mariavites (0.4%). This led to construction of hundreds of places of religious worship in all parts of the town. Most of them were destroyed in the aftermath of the Warsaw Uprising of 1944. After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.",What type of city has Warsaw been for as long as it's been a city?,multi-cultural,"
+Warsaw has been a multi-cultural city throughout its existence.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+57338007d058e614000b5bdb,"Throughout its existence, Warsaw has been a multi-cultural city. According to the 1901 census, out of 711,988 inhabitants 56.2% were Catholics, 35.7% Jews, 5% Greek orthodox Christians and 2.8% Protestants. Eight years later, in 1909, there were 281,754 Jews (36.9%), 18,189 Protestants (2.4%) and 2,818 Mariavites (0.4%). This led to construction of hundreds of places of religious worship in all parts of the town. Most of them were destroyed in the aftermath of the Warsaw Uprising of 1944. After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.",What was Warsaw's population in 1901?,"711,988","
+The population of Warsaw in 1901 was 711,988.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+57338007d058e614000b5bdc,"Throughout its existence, Warsaw has been a multi-cultural city. According to the 1901 census, out of 711,988 inhabitants 56.2% were Catholics, 35.7% Jews, 5% Greek orthodox Christians and 2.8% Protestants. Eight years later, in 1909, there were 281,754 Jews (36.9%), 18,189 Protestants (2.4%) and 2,818 Mariavites (0.4%). This led to construction of hundreds of places of religious worship in all parts of the town. Most of them were destroyed in the aftermath of the Warsaw Uprising of 1944. After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.","Of Warsaw's inhabitants in 1901, what percentage was Catholic?",56.2%,"
+In 1901, out of the 711,988 inhabitants of Warsaw, 56.2% were Catholics.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer accurately states that 56.2% of Warsaw's inhabitants in 1901 were Catholics, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer provides the additional information that the percentage refers to the total population of Warsaw in 1901, which is 711,988 inhabitants. This information is relevant and enhances the understanding of the topic.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context. All the information provided directly pertains to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. All the information provided is directly taken from the passage.",1,1,0,0
+57338007d058e614000b5bdd,"Throughout its existence, Warsaw has been a multi-cultural city. According to the 1901 census, out of 711,988 inhabitants 56.2% were Catholics, 35.7% Jews, 5% Greek orthodox Christians and 2.8% Protestants. Eight years later, in 1909, there were 281,754 Jews (36.9%), 18,189 Protestants (2.4%) and 2,818 Mariavites (0.4%). This led to construction of hundreds of places of religious worship in all parts of the town. Most of them were destroyed in the aftermath of the Warsaw Uprising of 1944. After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.",What percentage of Warsaw's population was Protestant in 1901?,2.8%,"
+In 1901, 2.8% of Warsaw's population was Protestant.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree? 
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree? 
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree? 
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree? 
+Disagree",1,0,0,0
+57338007d058e614000b5bde,"Throughout its existence, Warsaw has been a multi-cultural city. According to the 1901 census, out of 711,988 inhabitants 56.2% were Catholics, 35.7% Jews, 5% Greek orthodox Christians and 2.8% Protestants. Eight years later, in 1909, there were 281,754 Jews (36.9%), 18,189 Protestants (2.4%) and 2,818 Mariavites (0.4%). This led to construction of hundreds of places of religious worship in all parts of the town. Most of them were destroyed in the aftermath of the Warsaw Uprising of 1944. After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.",When were most of the places of religious worship destroyed in Warsaw?,1944, The places of religious worship were destroyed in the aftermath of the Warsaw Uprising of 1944.,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree? 
+Agree
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree? 
+Agree
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree? 
+Disagree
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree? 
+Disagree",1,1,0,0
+573380e0d058e614000b5be9,"The basic unit of territorial division in Poland is a commune (gmina). A city is also a commune – but with the city charter. Both cities and communes are governed by a mayor – but in the communes the mayor is vogt (wójt in Polish), however in the cities – burmistrz. Some bigger cities obtain the entitlements, i.e. tasks and privileges, which are possessed by the units of the second level of the territorial division – counties or powiats. An example of such entitlement is a car registration: a gmina cannot register cars, this is a powiat's task (i.e. a registration number depends on what powiat a car had been registered, not gmina). In this case we say about city county or powiat grodzki. Such cities are for example Lublin, Kraków, Gdańsk, Poznań. In Warsaw, its districts additionally have some of powiat's entitlements – like already mentioned car registration. For example, the district Wola has its own evidence and the district Ursynów – its own (and the cars from Wola have another type of registration number than these from Ursynów). But for instance the districts in Kraków do not have entitlements of powiat, so the registration numbers in Kraków are of the same type for all districts.",What is the basic unit of territorial division in Poland?,commune, Communes (gmina),"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly identifies the basic unit of territorial division in Poland as a ""commune,"" which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes the Polish term for ""commune,"" which is ""gmina."" This additional information is relevant and enhances understanding of the topic.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information in the prediction answer can be found in the context.",1,1,0,0
+573380e0d058e614000b5bea,"The basic unit of territorial division in Poland is a commune (gmina). A city is also a commune – but with the city charter. Both cities and communes are governed by a mayor – but in the communes the mayor is vogt (wójt in Polish), however in the cities – burmistrz. Some bigger cities obtain the entitlements, i.e. tasks and privileges, which are possessed by the units of the second level of the territorial division – counties or powiats. An example of such entitlement is a car registration: a gmina cannot register cars, this is a powiat's task (i.e. a registration number depends on what powiat a car had been registered, not gmina). In this case we say about city county or powiat grodzki. Such cities are for example Lublin, Kraków, Gdańsk, Poznań. In Warsaw, its districts additionally have some of powiat's entitlements – like already mentioned car registration. For example, the district Wola has its own evidence and the district Ursynów – its own (and the cars from Wola have another type of registration number than these from Ursynów). But for instance the districts in Kraków do not have entitlements of powiat, so the registration numbers in Kraków are of the same type for all districts.",What is the second level of territorial division in Poland?,counties or powiats, communes,"1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The second level of territorial division in Poland is ""counties or powiats,"" not ""communes.""
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional, irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information not found in the context. It is simply incorrect.",0,0,0,0
+573380e0d058e614000b5beb,"The basic unit of territorial division in Poland is a commune (gmina). A city is also a commune – but with the city charter. Both cities and communes are governed by a mayor – but in the communes the mayor is vogt (wójt in Polish), however in the cities – burmistrz. Some bigger cities obtain the entitlements, i.e. tasks and privileges, which are possessed by the units of the second level of the territorial division – counties or powiats. An example of such entitlement is a car registration: a gmina cannot register cars, this is a powiat's task (i.e. a registration number depends on what powiat a car had been registered, not gmina). In this case we say about city county or powiat grodzki. Such cities are for example Lublin, Kraków, Gdańsk, Poznań. In Warsaw, its districts additionally have some of powiat's entitlements – like already mentioned car registration. For example, the district Wola has its own evidence and the district Ursynów – its own (and the cars from Wola have another type of registration number than these from Ursynów). But for instance the districts in Kraków do not have entitlements of powiat, so the registration numbers in Kraków are of the same type for all districts.",In what districts are the registration numbers for cars all of the same type?,Kraków," In Kraków, its districts additionally have some of powiat's entitlements – like already mentioned car registration.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The passage states that the districts in Kraków do not have entitlements of powiat, so the registration numbers in Kraków are of the same type for all districts. The prediction answer incorrectly states that Kraków districts have powiat's entitlements.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional relevant information from the context. It incorrectly states that Kraków districts have powiat's entitlements.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information about Kraków districts having powiat's entitlements, which is not true according to the passage.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context, specifically the claim that Kraków districts have powiat's entitlements. This is not mentioned in the passage.",0,0,1,1
+5733834ed058e614000b5c26,"Warsaw's first stock exchange was established in 1817 and continued trading until World War II. It was re-established in April 1991, following the end of the post-war communist control of the country and the reintroduction of a free-market economy. Today, the Warsaw Stock Exchange (WSE) is, according to many indicators, the largest market in the region, with 374 companies listed and total capitalization of 162 584 mln EUR as of 31 August 2009. From 1991 until 2000, the stock exchange was, ironically, located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).",When was Warsaw's first stock exchange established?,1817,"
+Warsaw's first stock exchange was established in 1817.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
+5733834ed058e614000b5c27,"Warsaw's first stock exchange was established in 1817 and continued trading until World War II. It was re-established in April 1991, following the end of the post-war communist control of the country and the reintroduction of a free-market economy. Today, the Warsaw Stock Exchange (WSE) is, according to many indicators, the largest market in the region, with 374 companies listed and total capitalization of 162 584 mln EUR as of 31 August 2009. From 1991 until 2000, the stock exchange was, ironically, located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).",What brought Warsaw's stock exchange to a stop?,World War II,"
+The Warsaw Stock Exchange (WSE) was closed in 1991 due to the end of the communist control of the country and the reintroduction of a free-market economy.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The passage states that the Warsaw Stock Exchange was closed during World War II, not in 1991 due to the end of communist control.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The additional information provided in the prediction answer is incorrect and not relevant to the question asked.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes information about the end of communist control and the reintroduction of a free-market economy, which is irrelevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the prediction answer is found in the context, but it is misinterpreted and incorrectly applied to the question.",0,0,1,0
+5733834ed058e614000b5c28,"Warsaw's first stock exchange was established in 1817 and continued trading until World War II. It was re-established in April 1991, following the end of the post-war communist control of the country and the reintroduction of a free-market economy. Today, the Warsaw Stock Exchange (WSE) is, according to many indicators, the largest market in the region, with 374 companies listed and total capitalization of 162 584 mln EUR as of 31 August 2009. From 1991 until 2000, the stock exchange was, ironically, located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).",When was Warsaw's stock exchange brought back to life?,April 1991,"
+Warsaw's stock exchange was brought back to life in April 1991 following the end of the post-war communist control of the country and the reintroduction of a free-market economy.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that the Warsaw's stock exchange was re-established in April 1991.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Agree. The additional information about the end of the post-war communist control and the reintroduction of a free-market economy is relevant and enhances the understanding of why the stock exchange was re-established.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer is relevant to the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. All the information provided in the prediction answer can be found in the context.",1,1,0,0
+5733834ed058e614000b5c29,"Warsaw's first stock exchange was established in 1817 and continued trading until World War II. It was re-established in April 1991, following the end of the post-war communist control of the country and the reintroduction of a free-market economy. Today, the Warsaw Stock Exchange (WSE) is, according to many indicators, the largest market in the region, with 374 companies listed and total capitalization of 162 584 mln EUR as of 31 August 2009. From 1991 until 2000, the stock exchange was, ironically, located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).",How many companies were listed on the WSE on August 2009?,374,"
+According to the provided information, the Warsaw Stock Exchange (WSE) listed 374 companies on August 2009.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree. The prediction answer correctly states that 374 companies were listed on the WSE in August 2009, which matches the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional information from the context. It simply restates the question and provides the correct answer.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any additional, irrelevant information from the context. It sticks to the question and provides the correct answer.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The prediction answer does not include any information that is not found in the context. It accurately reflects the information provided in the passage.",1,0,0,0
+5733834ed058e614000b5c2a,"Warsaw's first stock exchange was established in 1817 and continued trading until World War II. It was re-established in April 1991, following the end of the post-war communist control of the country and the reintroduction of a free-market economy. Today, the Warsaw Stock Exchange (WSE) is, according to many indicators, the largest market in the region, with 374 companies listed and total capitalization of 162 584 mln EUR as of 31 August 2009. From 1991 until 2000, the stock exchange was, ironically, located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).",Whose former headquarters was the WSE located in until 2000?,Polish United Workers' Party,"
+The WSE's former headquarters was located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree? 
+Agree. The prediction answer correctly identifies the Polish United Workers' Party as the former occupant of the building where the WSE was located.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree? 
+Disagree. The prediction answer does not provide any additional information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree? 
+Disagree. The prediction answer does not include any irrelevant information from the context.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree? 
+Disagree. The prediction answer does not include any information that is not found in the context.",1,0,0,0
+56dde1d966d3e219004dad8d,"Before Rollo's arrival, its populations did not differ from Picardy or the Île-de-France, which were considered ""Frankish"". Earlier Viking settlers had begun arriving in the 880s, but were divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula, and were separated by traditional pagii, where the population remained about the same with almost no foreign settlers. Rollo's contingents who raided and ultimately settled Normandy and parts of the Atlantic coast included Danes, Norwegians, Norse–Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes from the English Danelaw under Norse control.",Who upon arriving gave the original viking settlers a common identity?,Rollo,"
+The original viking settlers gave the original viking settlers a common identity upon arriving in Normandy.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The prediction answer is incorrect. The correct answer is ""Rollo"" as per the reference answer.
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The prediction answer does not provide any additional relevant information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The prediction answer includes irrelevant information by stating that the original Viking settlers gave themselves a common identity, which is not mentioned in the passage.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Agree. The prediction answer includes information not found in the context, specifically the claim that the original Viking settlers gave themselves a common identity.",0,0,1,1
+56de0daecffd8e1900b4b595,"The two most prominent Norman families to arrive in the Mediterranean were descendants of Tancred of Hauteville and the Drengot family, of whom Rainulf Drengot received the county of Aversa, the first Norman toehold in the south, from Duke Sergius IV of Naples in 1030. The Hauteville family achieved princely rank by proclaiming prince Guaimar IV of Salerno ""Duke of Apulia and Calabria"". He promptly awarded their elected leader, William Iron Arm, with the title of count in his capital of Melfi. The Drengot family thereafter attained the principality of Capua, and emperor Henry III legally ennobled the Hauteville leader, Drogo, as ""dux et magister Italiae comesque Normannorum totius Apuliae et Calabriae"" (""Duke and Master of Italy and Count of the Normans of all Apulia and Calabria"") in 1047.",What was the name of the leader ennobled by Henry III,Drogo,"
+The leader ennobled by Henry III was William Iron Arm.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Disagree. The correct answer should be ""Drogo"", not ""William Iron Arm"".
+
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree. The answer does not provide any additional relevant information from the context.
+
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Agree. The mention of ""William Iron Arm"" is irrelevant to the question asked.
+
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree. The information provided in the answer is found in the context, but it is not the correct answer to the question.",0,0,1,0
+56de0daecffd8e1900b4b596,"The two most prominent Norman families to arrive in the Mediterranean were descendants of Tancred of Hauteville and the Drengot family, of whom Rainulf Drengot received the county of Aversa, the first Norman toehold in the south, from Duke Sergius IV of Naples in 1030. The Hauteville family achieved princely rank by proclaiming prince Guaimar IV of Salerno ""Duke of Apulia and Calabria"". He promptly awarded their elected leader, William Iron Arm, with the title of count in his capital of Melfi. The Drengot family thereafter attained the principality of Capua, and emperor Henry III legally ennobled the Hauteville leader, Drogo, as ""dux et magister Italiae comesque Normannorum totius Apuliae et Calabriae"" (""Duke and Master of Italy and Count of the Normans of all Apulia and Calabria"") in 1047.",Who was Count of Melfi,William Iron Arm,"
+William Iron Arm was Count of Melfi.","1. The Answer is Correct concerning the Reference Answer. Do you agree or disagree?
+Agree
+2. The Answer Includes Relevant, Additional Information from the Context. Do you agree or disagree?
+Disagree
+3. The Answer Includes Additional, Irrelevant Information from the Context. Do you agree or disagree?
+Disagree
+4. The Answer Includes Information Not Found in the Context. Do you agree or disagree?
+Disagree",1,0,0,0
